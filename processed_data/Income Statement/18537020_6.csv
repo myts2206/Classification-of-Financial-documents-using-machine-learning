@@ -1,0 +1,24 @@
+0,1,2,3,4,5,6
+PARTICULARS,Quarter,Quarter,Quarter,Year,Year,
+ended,ended,ended,ended,ended,,
+,31-Mar-18,31-Dec-17,31-Mar-17,314War-18,31-Mar-17,
+,Audited,Reviewed,Auc,ited,,
+1,Income:,,,,,
+,- Revenue from Operations,"9,327.84","8,665.13","8,453.41","34,807.10","32,111.06"
+,- Profit on Sate of Investments (Note 2),294.31,16.21,48.62,378.07,"1,001.73"
+,- Other Income,1174,11.73,12.48,44.72,46.81
+Total Income,"9,633.89","8,693.07","8,514.51","35,229.89","33,159.60",
+2,Expenses:- Finance Cost,"5,710.88","5,545.69","5,237.94","22,235.00","20,896.20"
+,- Employee Benefit Expenses,95.93,109.31,86.10,"425,47",388.80
+,-Establishment Expenses,20.41,23.81,"17,09",10002,86.22
+,-Other Expenses,103.26,95.39,73.53,"383,06",305.78
+,- Provisions and Contingencies {Note 2),180.00,95.00,148.00,455.00,700.00
+,- Depreciation and Amortisation,12.47,12.62,13.65,49.24,"55,96"
+Total Expenses,"6,122.95","5,881.82","5,576.31","23,647.79","22,432.96",
+3,PROFIT BEFORE EXCEPTIONAL ITEMS ANDTAX (1-2),"3,510.94","2,811.25","2,938.20","11,582,10","10,726,64"
+4,EXCEPTIONALITEMS (Note 3),6.28,"3,675.31",-,"3,68159",-
+5,PROFIT BEFORE TAX (3+4),"3,517.22","6,486.56","2,938.20","15,263.69","10,726.64"
+6,Tax Expense(Note 4)- Current Tax,756.00,933.00,512.00,"3,155,00","2,789.00"
+,- Deferred Tax,(85.00),(113.00),382.00,(55.00),495.00
+Total Tax Expense,67100,820.00,894.00,"3,100.00","3,284.00",
+7,Net Profit after Tax (5-6),"2,846.22","5,666.56","2,044.20","12,163.69","7,442.64"

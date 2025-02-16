@@ -1,0 +1,26 @@
+0,1,2,3,4,5,6
+,Particulars,Quarter ended,Year ended,,,
+ij,,31/03/2018,31/12/2017,31/03/2017,31/03/2018,31/03/2017
+,,(Audited),(Unaudited),(Audited),(Audited),(Audited)
+i,Revenue from operations,"70,396.29","76,313.06","100,978.96","289,893.53","341,254.26"
+2,Other income,"12,610.75","3,951.58","10,461.44","42,648.32","22,340.61"
+3,Total income (1+2),"83,007.04","80,264.64","111,440.40","332,541.85","363,594.87"
+4,Expenses,,,,,
+(a),Contractand site expense,"57,905.06","59,832.86","76,386.83","243,496.88","293,913.70"
+(b),Employeesbenefit expense,"3,575.23","2,899.62","2,678.94","8,789.42","5,851.18"
+(c),Finance costs,"5,276.19","5,153.58","7,212.49","22,534.17","30,358.70"
+(d),Other expenses,"1,886.54","1,026.94","1,113.08","6,135.29","4,278.11"
+,Total expenses,"68,643.02","68,913.00","87,391.34","280,955.76","334,401.69"
+5,Profit before tax (3-4),"14,364.02","11,351.64","24,049.06","51,586.09","29,193.18"
+6,Tax expense,,,,,
+(a),Current income tax,"1,620.76","3,808.00","7,167.53","7,224.76","8,870.04"
+(b),Deferred income tax,(44.21),(1.62),7.97,(49.08),(0.74)
+,Total tax expenses,"1,576.55","3,806.38","7,175.50","7,175.68","8,869.30"
+7,Profit after tax (5-6),"12,787.47","7,545.26","16,873.56","44,410.41","20,323.88"
+8,Other comprehensive income not to bereclassified to profit or loss in subsequentyear :- Mark to market gains/(losses) onfair valuemeasurement of investments (net of tax),"(4,656.61)","(5,320.81)",-,"(15,855.32)",
+,- Re-measurement gains/ (losses) on definedbenefit plans (net of tax),(45.33),3.75,16.58,(38.54),5.27
+,Other Comprehensive Incoine/(Ioss) (aftertax)),"(4,701.94)","(5,317.06)",16.58,"(15,893.86)",5.27
+9,Total Comprehensive Income (after tax)(7+8),"8,085.53","2,228.20","16,890.14","28,516.55","20,329.15"
+10,Paid-up equity share capital(equity shares of Rs. 10/- each),"35,145.00","35,145.00","35,145.00","35,145.00","35,145.00"
+11,Other equity,,,,"215,791.34","215,390.80"
+12,Earnings per share(EPS)(of Rs. 10 each)Basic and diluted (Rs.) (*not annualised),3.64*,2.15*,4.8*,12.64,5.78

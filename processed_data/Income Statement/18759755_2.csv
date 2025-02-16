@@ -1,0 +1,47 @@
+0,1,2,3,4,5,6
+Sr. No.,Particulars,Quarter Ended,Year Ended,,,
+31.03.2018,31.12.2017,31.03.2017,31.03.2018,31.03.2017,,
+Audited (referNote 8),Unaudited,Audited (referNote 8),Audited,,,
+1,Revenue from operations,,,,,
+,a) Gross Sales,"18,958","16,299","16,706","65,046","56,244"
+,b) Other operating Income,741,154,246,"1,188",669
+,Total Revenue from operations,"19,699","16,453","16,952","66,234","56,913"
+II,Other Income,73,43,81,213,255
+III,Total income (1 + II),"19,772","16,496","17,033","66,447","57,168"
+IV,Expenses,,,,,
+,a) Cost of materials consumed,"10,167","9,090","9,030","35,995","28,400"
+,b) Purchases of stock-in-trade,328,325,324,"1,063",945
+,"c) Changes in inventories of finished goods, work-in-progress and stock-in-trade",207,100,(90),412,"(1,390)"
+,d) Employee benefits expense,321,314,275,"1,260","1,168"
+,e) Finance costs,873,892,963,"3,591","3,643"
+,f) Depreciation and amortisation expense,781,769,785,"3,054","3,025"
+,g) Power and fuel,"1,270","1,215","1,126","4,771","4,097"
+,h) Excise duty expenses,-,-,"1,172","1,259","4,623"
+,i) Other Expenses,"2,363","1,836","2,110","7,733","7,526"
+,Total Expenses (IV),"16,310","14,541","15,695","59,138","52,037"
+V,Profit before exceptional Items and Tax (III - IV),"3,462","1,955","1,338","7,309","5,131"
+VI,Exceptional Items (refer note 2),,234,,234,-
+VII,Profit before Tax (V - VI),"3,462","1,721","1,338","7,075","5,131"
+VIII,Tax Expense,,,,,
+,a) Current tax,854,344,(107),"1,578",(53)
+,b) Deferred tax,373,251,442,872,"1,607"
+IX,Net Profit after Tax for the period / year (VII-VIII),"2,235","1,126","1,003","4,625","3,577"
+X,Other Comprehensive Income (OCI),,,,,
+,A .i) Items that will not be reclassified to profit or loss,(189),173,15,79,(79)
+,Ii) Income tax relating to items that will not be reclassified to profit or loss,,(1),1,1,6
+,B.i) Items that will be reclassified to profit or loss,(246),171,348,(374),597
+,ii) Income tax relating to items that will be reclassified to profit or loss,86,(59),(120),130,(207)
+,Total Other Comprehensive lncome/(Loss),(349),284,244,(164),317
+XI,Total Comprehensive Income for the period/year (Comprising Profit and Other,"1,886","1,410","1,247","4,461","3,894"
+,Comprehensive Income for the period/year) (IX+X),,,,,
+XII,Paid up Equity Share Capital,241,241,240,241,240
+,(face value of Re.l per share),,,,,
+XIII,Other Equity excluding Revaluation Reserves,,,,"27,605","23,797"
+XIV,Earnings per equity share (not annualised),,,,,
+,Basic (Rs.),9.29,4.68,4.18,19.24,14.89
+,Diluted (Rs.),9.25,4.66,4.15,19.14,14.80
+XIII,Capital Redemption Reseve/Debenture Redemption Reserve,,,,290,443
+XIV,Networth,,,,"23,911","19,940"
+XV,Debt Service Coverage Ratio (refer (i) below),,,,1.63,1.63
+XVI,Interest Service Coverage Ratio (refer (ii) below),,,,4.05,3.38
+XVII,Debt-Equity Ratio (refer (iii) below),,,,1.30,1.59

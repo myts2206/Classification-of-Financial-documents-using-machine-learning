@@ -1,0 +1,37 @@
+0,1,2,3,4,5,6
+,Particulars,Quarter ended,Year ended,,,
+31.03.2018,31.12.2017Unaudited,31.03.2017,31.03.2018,31.03.2017,,
+Unaudited,Unaudited,Audited,Audited,,,
+1,Revenue from operations,"1,25,192","1.44,208","1,26,750","4,79,096","3,93,029"
+2,Other income,400,135,174,835,572
+3,TOTAL INCOME (1+2),"1,25,592","1,44,343","1,26,924","4,79,931","3,93,601"
+4,EXPENSES,,,,,
+,Purchases of stock-in-trade,"1,10,757","1,35,063","1,17,401","4,35,772","3,57,611"
+,"Changes in Inventories of finished goods, work in process and",,,,,
+,stock in trade,2.357,"(2,417)",(229),(320),"(1,118)"
+,Employee benefits expenses,"1,570","1,058","1,251","4,706","4,579"
+,Finance costs,357,486,413,"1,523","1,634"
+,Depreciation and amortisation expense,"1,331",900,579,"3,431","2,381"
+,Other expenses,"3,523","3,330","3,250","12,337","11,397"
+,TOTAL EXPENSES,"1,19,895","1,38,420","1,22,665","4,57,449","3,76,684"
+5,Profit before tax (3-4),"5,697","5,923","4,259","22,482","16,917"
+6,Tax expenses,239,279,"1,026","1,101","3,616"
+7,Profit for the Year,"5,458","5,644","3,233","21,381","13,301"
+,attributable to:,,,,,
+,Owners of the company,"4,825","5,354","2,993","19,781","11,927"
+,Non Controlling Interest,633,290,240,"1,600","1,374"
+8,Other Comprehensive Income (Net of Taxes),(39),(9),0,(68),(28)
+9,TOTAL COMPREHENSIVE INCOME FOR THE PERIOD (9+10),"5,419","5,635","3,233","21,313","13,273"
+10,Paid up Equity Share Capital (face value Re.1 per share),"3,340","3,340","3,340","3,340","3,340"
+11,Earnings per equity share (Face value of Re. 1 each),,,,,
+,Basic (in Rs),1.62,1.69,0.97,6.38,3.97
+,Diluted (in Rs),1.62,1.69,0.97,6.38,3.97
+12,Paid up Debt Capital *,,,,"5,858","4,986"
+13,Reserves Excluding Revaluation Reserves as per Balance Sheet,,,,,
+,of previous accounting year,,,,"1,17,388","80,381"
+14,Capital Redemption Reserve (also included in 15 above),,,,"5,422",5.422
+15,Debenture Redemption Reserve (also included in 15 above),,,,"1,910","1,910"
+16,Net worth,,,,"1.27,698","86,645"
+17,Debt Equity Ratio (no. of times) **,,,,0.05,0.09
+18,Debt Service Coverage ratio (DSCR)(no.of times) ***,,,,5.12,5.04
+19,Interest Service Coverage ratio (ISCR)(no.of times) ****,,,,15.77,11.16

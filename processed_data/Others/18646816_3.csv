@@ -1,0 +1,36 @@
+0,1,2,3,4,5,6
+,,Quarter Ended,Year Ended,,,
+Sr. No.,Particulars,31 March,31 December,31 March,31 March,31 March
+(Audited),(Unaudited),(Audited),(Audited),(Audited),,
+,,2018,2017,2017,2018,2017
+1,Segment revenue,,,,,
+,a. Pharmaceuticals,448,430,379,1790,1832
+,b. Life Sciences Ingredients,95995,92953,75614,332511,260466
+,Total,96443,93383,75993,334301,262298
+,Less : Inter segment revenue,,,,.,
+,Total revenue from operations,96443,93383,75993,334301,262298
+,a. Pharmaceuticals,448,430,379,1790,1832
+,b. Life Sciences ingredients,95995,92953,75614,332511,260466
+,Total,96443,93383,75993,334301,262298
+2,"Segment results {profit(+)/loss(-) before tax, exceptional items and Interest from each segment)",,,,,
+,a Pharmaceuticals,(534),(670),(671),(2746),(2489)
+,b. Life Sciences Ingredients,17323,19315,8996,55261,31465
+,Total,16789,18645,8325,52515,28976
+,Less : i Interest (Finance costs),3275,3363,4283,13517,17425
+,ii. Exceptional item and un-allocable expenditure (net of un-allocable income),1636,959,1008,2229,99
+,Profit before tax,11878,14323,3034,36769,11452
+3,Segment assets,,,,,
+,a. Pharmaceuticals,482,476,455,482,455
+,b. Life Sciences Ingredients,271998,268687,237044,271998,237044
+,c. Unallocable corporate assets (excluding deferred tax assets),189974,191187,200680,189974,200680
+,Total Segment assets,462454,460350,438179,462454,438179
+4,Segment liabilities,,,,,
+,a. Pharmaceuticals,856,747,661,856,661
+,b. Life Sciences Ingredients,86194,77272,59489,86194,59489
+,c. Unallocable corporate liabilities (excluding borrowings and deferred tax liabilities),6078,8494,4908,6078,4908
+,Total Segment liabilities,93128,86513,65058,93128,65058
+5,Capital employed (Segment assets less Segment liabilities),,,,,
+,a Pharmaceuticals,(374),(271),(206),(374),(206)
+,b. Life Sciences Ingredients,185804,191415,177555,185804,177555
+,c. Unallocable corporate assets less liabilities,183896,182693,195772,183896,195772
+,Total Capital employed,369326,373837,373121,369326,373121

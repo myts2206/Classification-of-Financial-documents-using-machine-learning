@@ -1,0 +1,42 @@
+0,1,2,3
+,1,Consolidated,
+"S.,\lo.",Particulars,Year ended,
+,,31-03-2018,31-03-2017
+1.,Income:Revenue From Operations (Refer Note 4),"63,582.52","57,702.86"
+,Other Income,"3,056.74","4,273.12"
+,Total Income (1),"66,639.26","61,975.98"
+II.,Expenses:Cost of Materials Consumed,"7,990.85","7,298.05"
+,Purchases of Stock-in-Trade,"14,529.68","14,206.80"
+,"Changes in Inventories of Work-in-Progress, Finished Goods and Stock-in-Trade","1,130.79",(926.89)
+,Excise duty expenses,316.12,"2,006.52"
+,Employee Benefits Expense,"8,602.04","7,239.33"
+,Finance Costs,682.12,777.01
+,Depreciation and Amortization Expense,"3,685.37","3,244.95"
+,Impairment on assets held for sale,-,"1,193.20"
+,Other Expenses,"22,059.41","20,652.27"
+,Total Expenses (II),"58,996.38","55,691.24"
+III.,"Profit before share of profit in associate, exceptional items and tax (1 - II)","7,642.88","6,284.74"
+IV.,Share of profit in an associate,139.31,241.59
+V.,Profit before exceptional items and tax (III + IV),"7,782.19","6,526.33"
+Vi.,Exceptional items (Refer Note 5),195.37,"(9,087.64)"
+VII.,Profit before tax (V - VI),"7,586.82","15,613.97"
+VIII.,Tax Expense:(1) Current Tax,"2,522.38","1,502.39"
+,(2) Deferred Tax,151.32,423.57
+IX.,Profit for the Year (VII -VIII),"4,913.12","13,688.01"
+X.,Other Comprehensive Incomei) Items that will not be reclassified to profit or loss:Re-measurement gains / (losses) on defined benefit plans,0.26,(72.53)
+,Income tax on above,(0.10),22.19
+,Share of Other Comprehensive Income in an associate,"1,161.42","2,049.89"
+,ii) Items that will be reclassified to profit or loss:Foreign currency Translation Reserve,0.20,(5.54)
+,Income tax effect on above,-,-
+,Total Other Comprehensive Income,"1,161.78","1,994.01"
+XI.,Total Comprehensive Income for the year (IX + X),"6,074.90","15,682.02"
+XII.,Profit attributable to:Owners of the Company,"4,519.18","12,815.72"
+,Non-controlling interest,393.94,872.29
+XIII.,Other Comprehensive Income attributable to:Owners of the Company,"1,152.57","2,005.13"
+,Non-controlling interest,9.21,(11.12)
+XIV.,Total Comprehensive Income attributable to:Owners of the Company,"5,671.75","14,820.85"
+,Non-controlling interest,403.15,861.17
+XV.,Paid up Equity Share Capital (Face value of Re. 1/- each fully paid up),231.00,231.00
+XVI.,Other Equity excluding revaluation reserve,"81,360.03","76,315.26"
+XVII.,Earning per Equity Share (Face value of Re. 1/- each) (Refer Note 6) (in Rs.)Basic,21.27,59.26
+,Diluted,21.27,59.26

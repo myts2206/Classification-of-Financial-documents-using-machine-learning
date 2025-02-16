@@ -1,0 +1,40 @@
+0,1,2,3,4,5,6
+Sr.No.,,Quarter Ended,Year Ended,,,
+Particulars,31-03-2018,31-12-2017,31-03-2017,31-03-2018,31-03-2017,
+,(Audited),(Unaudited),(Audited),(Audited),(Audited),
+1,IncomeRevenue from Operations,2.798.87,"2,472.45","2,436.08","9,550.21","7,779.37"
+,Other Income,259.17,118.24,100.09,616.21,687.12
+,Total Income,"3,058.04","2,590.69","2,536.17","10,166.42","8,466.49"
+2,Expenses(a) Purchases of stock-in-trade,"2,691.56",2.046.17,"1,920.08","8,508.36","5,962.23"
+,(b) Changes in inventories of stock-in-trade,(502.86),(29.58),70.45,(730.06),(30.34)
+,(c) Employee benefits expense,52.03,50.49,54.66,235.34,247.07
+,(d) Finance costs,204.29,132.20,191.52,666.35,781.80
+,(e) Depreciation and amortisation expense,23.35,22.65,20.91,87.41,78.86
+,(f) Other expenses,245.25,210.21,233.13,833.07,947.66
+,(g) Foreign exchange loss / (gain),20.92,21.46,14.88,77.01,81.76
+,Total Expenses,"2,734.54","2,453.60","2,505.63","9,677.48","8,069.04"
+3,Profit before exceptional items and tax (1-2),323.50,137.09,30.54,488.94,397.45
+4,Add/(Less): Exceptional items (net) (Refer Note 7),(181.05),,,(181.05),
+5,Profit before tax (3+4),142.45,137.09,30.54,307.89,397.45
+6,Tax expenses(a) Current Tax,34.16,20.22,12.84,63.83,88.98
+,(b) Deferred Tax,17.30,13.98,31.36,33.08,77.90
+,Total Tax Expense,51.46,34.20,44.20,96.91,166.88
+7,Profit / (Loss) for the period from Continuing Operations (5-6),90.99,102.89,(13.66),210.98,230.57
+8,Profit / (Loss) from Discontinuing Operations,"(37,63)",33.33,(22.11),(17.60),(11.50)
+,Less : Tax expense of Discontinuing Operations,(7.80),6.91,(4.95),(3.65),(2.57)
+,Profit after tax from Discontinuing Operations,(29.83),26.42,(17.16),(13.95),(8.93)
+9,Profit / (Loss) for the period (7+8),61.16,129.31,(30.82),197.03,221.64
+10,Other Comprehensive Income(a) Items that will not be reclassified to profit or loss,4.39,"(3,16)",1.15,"(4,39)",0.70
+,(b)    Income tax relating to items that will not bereclassified to profit or loss(c)    Items that will be reclassified to profit or loss(d)    Income tax relating to items that will be,(1.52),3.10,"(0,40)",1.52,"(0,24)"
+,reclassified to profit or loss,,,,,
+,Other Comprehensive Income,2.87,(0.06),0.75,(287),0.46
+11,Total Comprehensive Income for the period (9+10),64.03,129.25,(30.07),"194,16",222.10
+12,Paid-up Equity Share Capital(Face Value of ? 1 each),109.98,"109,98",109.98,109.98,109.98
+13,Other Equity,,,,"3,798.42","3,657,20"
+14,Earning per share (Face Value of ? 1 each)(not annualised):,,,,,
+,From Continuing OperationsBasic 8 Diluted,0.83,0.94,(0.12),"1,92",2.10
+,From Discontinuing OperationsBasic 8 Diluted,(0.27),"0,24",(0.16),(0.13),(0.08)
+,From Continuing 8 Discontinuing OperationsBasic 8 Diluted,"0,56","1,18",(0.28),1.79,2.02
+15,Debt Equity Ratio (Refer Note10),,,,1.77,1.91
+16,Debt Service Coverage Ratio (Refer Note io),,,,1.08,1.16
+17,Interest Service Coverage Ratio (Refer Note io),,,,2.25,1.42

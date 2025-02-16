@@ -1,0 +1,25 @@
+0,1,2,3,4,5,6
+,,Quarter ended,Year ended,,,
+SI. No.,Particulars,31.03.2018,31.12.2017,31.03.2017,31.03.2018,31.03.2017
+,,(Audited),(Unaudited),(Audited),(Audited),(Audited)
+1,Revenues,"35,349","38,060","35,542","142,028","140,809"
+2,Cosl of revenues,"16,454","16,649","17,360","65,724","62,453"
+3,Gross profit (1 - 2),"18,895","21,411","18,182","76,304","78,356"
+4,"Selling, general and administrative expenses","12,067","12,048","10,973","46,910","46,372"
+5,Research and development expenses,"4,348","4,667","4,579","18,265","19,551"
+6,"Other (income)/expense, net",(167),(313),(505),(788),"(1,065)"
+,Total operating expenses,"16,248","16,402","15,047","64,387","64,858"
+7,Operating profit [(3) - (4 + 5 + 6)],"2,647","5,009","3,135","11,917","13,498"
+,Finance income,"1,209","1,053",285,"2,897","1,587"
+,Finance expense,(177),(202),(333),(817),(781)
+8,"Finance (expense)/income, net","1,032",851,(48),"2,080",806
+9,"Share of profit of equity accounted investees, net of tax",69,85,102,344,349
+10,Profit before tax (7 + 8 + 9),"3,748","5,945","3,189","14,341","14,653"
+11,Tax expense,726,"2,601",64,"4,535","2,614"
+12,Profit for the period / year,"3,022","3,344","3,125","9,806","12,039"
+,Attributable to:,,,,,
+,- Equity holders of the Company,"3,022","3,344","3,125","9,806","12,039"
+,- Non-controlling interest,-,-,-,-,-
+13,Earnings per share:Basic earnings per share of Rs.5/- each,18.21,20.16,18.86,59.13,72.24
+,Diluted earnings per share of Rs.5/- each,18.18,20.13,18.83,59.00,72.09
+,,(Not annualised),(Not annualised),(Not annualised),,

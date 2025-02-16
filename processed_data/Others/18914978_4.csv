@@ -1,0 +1,7 @@
+0,1,2,3,4,5
+Particulars,Quarter ended,Year ended,,,
+31-Mar-18,31st-Dec-17,31-Mar-17,31-Mar-18,31-Mar-17,
+,Audited *,Unaudited,Audited *,Audited,Audited
+Revenue from operations (A),"7,959.6","6,567.8","7,846.1","28,842.3","26,707.5"
+Excise duty on Sale (B),-,-,753.7,691.1,"2,259.1"
+Revenue from operations excluding excise duty (A-B),"7,959.6","6,567.8","7,092.4","28,151.2","24,448.4"

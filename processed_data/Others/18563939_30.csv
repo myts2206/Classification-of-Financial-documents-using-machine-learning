@@ -1,0 +1,24 @@
+0,1,2,3,4
+,Notional principal amounts,Balance sheet exposureAsset (Liability),,
+,"March 31,","March 31,","March 31,","March 31,"
+,2017,2018,2017,2018
+CHF/USD,"CHF 1,000 (Buy)","CHF 1,700 (Buy)",4,(39)
+SEK/USD,"SEK 167,000 (Buy)","SEK60,000 (Buy)",114,(286)
+MYR/USD,"MYR 59,000 (Buy)",-(Buy),13,-
+USD /INR,"$96,875 (Buy)",- (Buy),"(5,154)",-
+AUD /USD,"AUD 4,600 (Buy)",- (Buy),(11),-
+NOK/USD,- (Buy),"NOK 81,000 (Buy)",-,10
+DKK/USD,"DKK 38,000 (Buy)","DKK 58,000 (Buy)",(24),55
+PHP/USD,- (Buy),"PHP335,000 (Buy)",-,(20)
+The following table presents the aggregate notional principal amounts,"$5,875 $4,068of the outstanding forward options",,,
+together with the related balance sheet exposure:Notional principal amounts,Balance sheet exposureAsset (Liability),,,
+,"March 31,2017","March 31,2018","March 31,20171","March 31,2018"
+Range ForwardUSD/INR,"$844,290","$1,099,485","$52,109","$28,636"
+EUR/INR,"€ 116,400","€ 110,380","14,028","(2,442)"
+GBP/INR,"£96,820","£60,800","13,975",(946)
+AUD/INR,"AUD 38,960","AUD 10,580","1,228",255
+EUR/USD,-,"€3,500",-,(8)
+SeagullUSD/INR,,"$14,750",,(33)
+EUR/INR,"€11,170","€14,200",146,(66)
+GBP/INR,-,"£6,000",-,(46)
+PUTUSD/INR,_,"$50,000",_,118

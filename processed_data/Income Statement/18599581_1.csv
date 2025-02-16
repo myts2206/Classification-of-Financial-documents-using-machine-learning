@@ -1,0 +1,39 @@
+0,1,2,3,4,5,6
+S.No.,Particulars,Quarter ended,Year ended,,,
+,,Audited,Unaudited,Audited,,
+,,(Refer note no:,,(Refer note,Audited,
+,,5),,no: 5),,
+,,31.03.2018,31.12.2017,31.03.2017,31.03.2018,31.03.2017
+1,Income,,,,,
+,a) Gross Sales / Income from Operations (inclusive of excise duty),43911,40560,40201,157742,149686
+,b) Other Operating Income,1022,585,1160,2486,2291
+,Revenue from Operations,44933,41145,41361,160228,151977
+,Other income,1196,802,2255,3104,3433
+,Total Income,46129,41947,43616,163332,155410
+2,Expensesa) Cost of materials consumed,15703,15970,13113,57962,51207
+,b) Purchase of stock-in-trade,1739,1427,2083,7092,8181
+,"c) Changes in inventories of finished goods, work-in-progress and stock-in-trade",1064,(239),1380,1378,120
+,d) Excise duty on sales,-,-,3143,2605,11409
+,e) Employee benefits expense,4431,4565,3737,17420,15327
+,f) Finance costs,58,17,204,147,876
+,g) Depreciation and amortisation expense,1914,1858,1685,7389,6694
+,h) Power and fuel,4645,4165,3451,16237,12981
+,i) Other expenses,9178,8840,8857,32583,31545
+,Total expenses,38732,36603,37653,142813,138340
+3,Profit before tax (l)-(2),7397,5344,5963,20519,17070
+4,Tax expenseCurrent tax,2305,1778,1453,6970,5275
+,Deferred tax,(202),(192),(30),(799),(382)
+,Total tax expense,2103,1586,1423,6171,4893
+5,Profit for the period (3)-(4),5294,3758,4540,14348,12177
+6,Other comprehensive income [OCI],,,,,
+,Items that will not be reclassified to profit or loss(a) Remeasurement of the defined benefit liabilities / (asset),(168),67,(58),33,(253)
+,(b) Equity instruments through other comprehensive income,(302),273,(116),266,(542)
+,Income tax relating to items that will not be reclassified to profit or loss,-,-,-,-,-
+,Other comprehensive income-Total,(470),340,(174),299,(795)
+,,,,,,
+7,Total Comprehensive income [ 5 + 6 ],4824,4098,4366,14647,11382
+8,Paid up Equity Share Capital (Face value - Re.l per share),1890,1889,1887,1890,1887
+9,Reserves excluding revaluation reserve,,,,114840,103379
+10,Earnings per share (Rs.) on S.no. 5 Net Profit after tax (not annualised),,,,,
+,- Basic,2.80,1.99,2.41,7.60,6.46
+,- Diluted,2.80,1.98,2.40,7.58,6.44

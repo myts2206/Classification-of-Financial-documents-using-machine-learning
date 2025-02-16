@@ -1,0 +1,61 @@
+0,1,2,3,4,5
+Balance Sheet,STANDALONE,CONSOLIDATED,,,
+Particulars,As at,As at,As at,As at,
+,"31st March, 2018","31st March, 2017","31st March, 2018","31st March, 2017",
+,(Audited),(Audited),(Audited),(Audited),
+A,ASSETS,,,,
+1,NON-CURRENT ASSETS,,,,
+,"(a) Property, Plant and Equipment",15120.00,14469.32,15863.68,15262.27
+,(b) Capital work-in-progress**,5016.85,3491.33,5499.60,3684.20
+,(c) Goodwill on Consolidation,-,-,202.53,202.53
+,(d) Other Intangible assets,445.99,410.92,457.75,428.68
+,(e) Intangible assets under development,8.73,45.69,8.73,45.69
+,(f) Financial Assets,,,,
+,(i) Investments*,13493.77,8485.51,11483.79,6693.99
+,(ii) Loans,7.40,5.84,9.69,8.54
+,(iii) Others,1741.28,99.83,1747.38,100.71
+,(g) Deferred tax assets (net),-,-,47.98,44.95
+,(h) Income Tax Assets (Net),18.66,-,61.56,38.59
+,(i) Other non-current assets,2025.63,2670.12,2512.55,3164.02
+,Non-Current Assets,37878.31,29678.56,37895.24,29674.17
+2,CURRENT ASSETS,,,,
+,(a) Inventories,7237.15,7863.99,7495.09,8116.10
+,(b) Biological Assets other than bearer plants,-,-,89.44,70.05
+,(c) Financial Assets,,,,
+,(i) Investments,9903.45,10099.78,10569.07,10887.39
+,(ii) Trade receivables,2357.01,2207.50,2682.29,2474.29
+,(iii) Cash and cash equivalents,96.03,156.15,153.07,333.07
+,(iv) Other Bank Balances,2498.85,2591.12,2746.53,2634.33
+,(v) Loans,4.15,3.37,5.84,6.78
+,(vi) Others,1147.95,1004.91,1352.84,1090.02
+,(d) Other current assets,1258.41,610.57,1299.45,657.07
+,Current Assets,24503.00,24537.39,26393.62,26269.10
+,,,,,
+,TOTAL ASSETS,62381.31,54215.95,64288.86,55943.27
+B,EQUITY AND LIABILITIES,,,,
+,EQUITY,,,,
+,(a) Equity Share capital,1220.43,1214.74,1220.43,1214.74
+,(b) Other Equity,50179.64,44126.22,51289.68,45198.19
+,Attributable to the owners of the parent,51400.07,45340.96,52510.11,46412.93
+,Non-controlling Interests,N.A.,N.A.,334.47,294.74
+,Total Equity,51400.07,45340.96,52844.58,46707.67
+,LIABILITIES,,,,
+1,NON-CURRENT LIABILITIES,,,,
+,(a) Financial Liabilities,,,,
+,(i) Borrowings,11.13,17.99,11.50,18.40
+,(ii) Other financial liabilities,35.36,9.21,67.79,41.21
+,(b) Provisions,121.91,131.37,149.63,158.42
+,(c) Deferred tax liabilities (Net),1917.94,1871.70,1923.02,1878.77
+,(d) Other non-current liabilities,38.30,14.65,42.19,17.79
+,Non-Current Liabilities,2124.64,2044.92,2194.13,2114.59
+2,CURRENT LIABILITIES,,,,
+,(a) Financial Liabilities,,,,
+,(i) Borrowings,-,0.01,17.35,19.11
+,(ii) Trade payables,3382.28,2551.22,3496.18,2659.33
+,(iii) Other financial liabilities,778.30,784.78,993.87,903.25
+,(b) Other current liabilities,4656.78,3351.15,4610.39,3327.46
+,(c) Provisions,39.24,41.83,63.80,61.16
+,(d) Current Tax Liabilities (Net),-,101.08,68.56,150.70
+,Current Liabilities,8856.60,6830.07,9250.15,7121.01
+,,,,,
+,TOTAL EQUITY AND LIABILITIES,62381.31,54215.95,64288.86,55943.27

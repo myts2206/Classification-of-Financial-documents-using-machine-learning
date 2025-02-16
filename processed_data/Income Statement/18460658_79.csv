@@ -1,0 +1,32 @@
+0,1,2,3,4,5
+Particulars,Quarter Ended,,,,
+Mar-18,Dec-17,Sep-17,Jun-17,Mar-17,
+Total revenues,"49,713","51,293","52,030","48,528","50,468"
+Access charges,"5,491","6,128","6,486","6,565","6,931"
+Cost of goods sold,"1,637","1,542","1,777","1,427","1,409"
+Net revenues,"42,584","43,623","43,767","40,536","42,127"
+"Operating Expenses (Exci Access Charges,cost of goods sold & License Fee)","22,083","22,901","24,264","24,014","26,189"
+Licence Fee,"2,970","2,709","2,952","3,187","3,075"
+ffilTDA,"17,911","18,188","16,814","13,616","13,065"
+mn,"11,208","11,039","8,300","5,038","3,931"
+Rofit before Tax,"11,301","7,595","5,370","7,166","2,703"
+Profit after Tax (before exceptional items),"8,647","5,882","3,285","3,388",(40)
+Non Controlling interest,"1,660","1,021",217,31,(399)
+Net income (before exceptional items),"6,987","4,861","3,067","3,356",359
+Capex,"16,300","4,667","3,131","3,161","9,033"
+Operating Free Cash Flow (EBITDA - Capex),"1,611","13,521","13,684","10,455","4,033"
+Cumulative investments,"568,556","558,510","602,065","589,364","578,688"
+,,,,,
+,Mar-18,Dec-17,Sep-17,Jun-17,Mar-17
+As a%of Total revenues,,,,,
+Access charges,11.0%,11.9%,12.5%,13.5%,13.7%
+Cost of goods sold,3.3%,3.0%,3.4%,2.9%,2.8%
+Net revenues,85.7%,85.0%,84.1%,83.5%,83.5%
+"Operating Expenses (excluding accesscharges, cost of goods sold & license fee)",44.4%,44.6%,46.6%,49.5%,51.9%
+Licence Fee,6.0%,5.3%,5.7%,6.6%,6.1%
+ffirTDA,36.0%,35.5%,32.3%,28.1%,25.9%
+ffirr,22.5%,21.5%,16.0%,10.4%,7.8%
+Rofit before Tax,22.7%,14.8%,10.3%,14.8%,5.4%
+Rofit after Tax (before exceptional items),17.4%,11.5%,6.3%,7.0%,-0.1%
+Non Controlling interest,3.3%,2.0%,0.4%,0.1%,-0.8%
+Net income (before exceptional items),14.1%,9.5%,5.9%,6.9%,0.7%

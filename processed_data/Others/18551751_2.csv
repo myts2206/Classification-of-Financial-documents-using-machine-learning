@@ -1,0 +1,37 @@
+0,1,2,3,4,5,6
+SI.No,Particulars,Quarter ended,Preceding quarter,Corresponding,Current year ended,Previous year
+,,(31/03/2018),ended,quarter ended,(31/03/2018),ended
+,,,(31/12/2017),(31/03/2017),,(31/03/2017)
+,,(ReferNote 6),(Unaudited),(Refer Note 6),(Audited),(Audited)
+i,Segment revenueA.Consumer care business,"1,677.43","1,696.86","1,550.84","6,414.08","6,328.89"
+,B. Food business,293.40,210.69,298.01,"1,097.74","1,114.25"
+,C. Retail business,27.89,32.09,30.76,114.29,123.31
+,D. Other segments,24.84,20.49,29.36,97.03,113.62
+,E. Unallocated other operating revenue,9.35,6.31,5.71,25.20,21.37
+,Revenue from operations,"2,032.91","1,966.44","1,914.68","7,748.34","7,701.44"
+2,Segment resultsA.Consumer care business,428.71,418.72,377.27,"1,596.11","1,536.65"
+,B. Food business,55.37,27.50,45.43,158.14,154.23
+,C. Retail business,0.42,1.62,0.17,3.14,(1.04)
+,D. Other segments,1.71,1.59,0.99,2.81,4.52
+,SubTotal,486.21,449.43,423.86,"1,760.20","1,694.36"
+,Less: Finance costs,13.24,13.21,11.66,53.05,54.03
+,Less: Unallocable expenditure net off unallocable income,(29.62),20.07,(19.20),(0.24),29.93
+,Profit before share of profit/(los$) from joint venture andexceptional items,502.59,416.15,431.40,"1,707.39","1,610.40"
+,Share of profit / (loss) of joint venture,(0.18),0.17,(0.08),0.24,0.25
+,Profit before exceptional itemsandtax,502.41,416.32,431.32,"1,707.63","1,610.65"
+,Exceptional items,-,,-,14.54,-
+,Profit before tax,502.41,416.32,431.32,"1,693.09","1,610.65"
+,Less: Tax expenses,105.23,83.29,97.67,335.35,330.34
+,Net profit for the period/year,397.18,333.03,333.65,"1,357.74","1,280.31"
+3,Segment assetsA. Consumer care business,"3,324.37","3,306.14","2,933.41","3,324.37","2,933.41"
+,B. Food business,790.64,734.43,921.69,790.64,921.69
+,C. Retail business,55.92,53.20,50.69,55.92,50.69
+,â–¡.Other segments,37.06,39.62,39.40,37.06,39.40
+,E. Unallocated,"4,493.64","4,179.50","3,787.05","4,493.64","3,787.05"
+,Total,"8,701.63","8,312.89","7,732.24","8,701.63","7,732.24"
+4,Segment liabilitiesA. Consumer care business,"1,079.98","1,149.57",789.28,"1,079.98",789.28
+,B. Food business,456.20,378.55,463.98,456.20,463.98
+,C. Retail business,27.14,24.35,23.63,27.14,23.63
+,D.Other segments,15.44,11.84,8.31,15.44,8.31
+,E. Unallocated,"1,389.82","1,393.78","1,574.88","1,389.82","1,574.88"
+,Total,"2,968.58","2,958.09","2,860.08","2,968.58","2,860.08"

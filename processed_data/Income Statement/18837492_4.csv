@@ -1,0 +1,36 @@
+0,1,2,3
+SI No,Particulars,Year ended 31st March2018,Year ended 31st March2017
+,,Audited,Audited
+i,INCOME,,
+,a Revenue from operations,26412.16,25043.36
+,b Other income,503.27,460.20
+,Total Income,26915.43,25503.56
+2,Expenses,,
+,a Cost of raw material and components consumed,2695.23,2914.18
+,b Purchase of traded goods,9854.70,8948.92
+,"c (Increase)/ decrease in inventories of finished goods, work-in-progress and traded goods",(525.95),(282.53)
+,d Excise duty on sale of goods,70.47,300.80
+,e Employee benefits expense,2956.10,2731.88
+,f Finance costs,41.98,40.34
+,g Depreciation and amortisation expense,604.52,650.36
+,h Rent,3622.43,3563.93
+,i Other expenses,4225.55,4080.35
+,Total Expenses,23545.03,22948.23
+3,Profit before exceptional items and tax,3370.40,2555.33
+4,Exceptional items expense,-,216.69
+5,Profit before tax,3370.40,2338.64
+6,Tax expense,,
+,- Current tax,1214.73,925.63
+,- Tax for earlier years,0.13,(62.90)
+,- Deferred tax (credit),(49.59),(113.60)
+7,Profit for the year,2205.13,1589.51
+8,Other comprehensive income,,
+,Other comprehensive income not to be reclassified to profit or loss in subsequent periods:,,
+,a Re-measurement (losses)/gains on defined benefit plans,(244.73),(21.56)
+,b Income tax effect,84.70,7.46
+,"Other comprehensive income, net of tax",(160.03),(14.10)
+,"Total comprehensive income, net of tax",2045.10,1575.41
+,,,
+,Earnings per equity share of Rs. 5 each,,
+,Basic,17.16,12.37
+,Diluted,17.16,12.37

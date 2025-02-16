@@ -1,0 +1,21 @@
+0,1,2
+Audit fees,4,3
+Tax audit fees,*,1
+In other capacities:,,
+Other Services,3,6
+Reimbursement of Expenses,*,*
+Total Payments to Auditors,7,10
+* denotes less than one million,,
+33: Income Tax,,
+33(a): Statement of profit and loss,,
+,"December 31, 2017","December 31, 2016"
+(a) Income tax expense,,
+Current tax,,
+Current tax on profits for the year,"1,861","1,881"
+Adjustments for current tax of prior periods,-,47
+Total current tax expense,"1,861","1,928"
+Deferred tax,,
+Decrease (increase) in deferred tax assets,75,(31)
+(Decrease) increase in deferred tax liabilities,(50),(135)
+Total deferred tax expense/(benefit),25,(166)
+Income tax expense,"1,886","1,762"

@@ -1,0 +1,30 @@
+0,1,2,3,4,5,6
+,Particulars,Quarter ended,Year ended,,,
+31.03.2018,31.12.2017,31.03.2017,31.03.2018,31.03.2017,,
+(Audited)*,(Unaudited),(Audited)*,(Audited),(Audited),,
+1,Revenue from operations,108795,103788,106668,383723,406578
+2,Other Income,4817,1701,2089,11248,7594
+3,Total Revenue from Operations(inclusive of excise dutv) (1+2),113612,105489,108757,394971,414172
+4,Expenses,,,,,
+,a) Cost of materials consumed,48071,40853,43620,152428,156319
+,b) Purchases of stock-in-trade,0,0,0,0,0
+,"c) Changes in inventories offinished goods, work-inÂ¬progress and stock-in-trade",(7308),(15),(1517),(1938),(2161)
+,d) Employee benefits expense,12577,11498,10610,44627,49033
+,e) Depreciation and amortizationexpense,3879,3739,3144,14242,12326
+,f) Finance Costs,(17),26,104,133,225
+,g) Other Expenses,16805,1883JT,17751,63543,59607
+,Total expenses,74007,74939,73712,273035,275349
+5,Profit before exceptional Itemsand tax (3-4),39605,30550,35045,121936,138823
+6,Exceptional items,0,0,0,0,0
+7,Profit before Tax (5-6),39605,30550,35045,121936,138823
+8,Tax Expensea)    Current Taxb)    Deferred Tax,122611184,60812003,47524364,287136265,285234973
+,Total Tax Expense,13445,8084,9116,34978,33496
+9,Net Profit for the period (7-8),26160,22466,25929,86958,105327
+10,Other Comprehensive Income:a)    Items that will not bereclassified to Profit or Lossb)    Items that will be reclassifiedto Profit or Loss,233,(47),(25),94,(185)
+,Current tax relating to OCI,(55),10,45,(27),45
+,Total other comprehensiveIncome,178,(37),20,67,(140)
+11,Total comprehensive Incomefor the period (9+10),26338,22429,25949,87025,105187
+12,Paid-up Equity Share Capital(Face Value: Rs.2 per share),5309,5309,5309,5309,5309
+13,Other Equity,,,,590656,535582
+14,Earnings per Share(ofRs.2/- each) (not annualized),,,,,
+,a)    Basic (Rs.)b)    Diluted (Rs.),9.859.85,8.468.46,9.779.77,32.7632.76,39.6839.68

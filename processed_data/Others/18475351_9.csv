@@ -1,0 +1,15 @@
+0,1,2,3,4,5,6
+Series Id,Issue Size(Rs in Crs),Allotment Date,Maturity Date,Due Date,IS 1N No,Due Category
+3A,0.90,06-Jun-16,06-Jun-26,06-Mar-18,INE774D08LT8,Quarterly Interest
+3B,24.73,06-Jun-16,06-Jun-26,06-Mar-18,INE774D08LU6,Quarterly Interest
+AG2016,25,8-Mar-16,8-Mar-19,8-Mar-18,INE774D07OE6,Interest
+AF2015,22,9-Mar-15,9-Mar-18,9-Mar-18,INE774D07LA0,Principal + Interest
+AB2017,100,9-Jan-17,9-Mar-18,9-Mar-18,INE774D07QJ0,Principal + Interest
+AG2015,55,10-Mar-15,10-Mar-25,12-Mar-18,INE774D07LB8,Interest
+CB2016,250,10-Oct-16,20-Mar-19,20-Mar-18,INE774D07PZ8,Interest
+BG2016,250,1-Aug-16,21-Mar-18,21-Mar-18,INE774D07PE3,Principal + Interest
+AU2017,250,23-Mar-17,22-Mar-19,23-Mar-18,INE774D07RC3,Interest
+AJ2015,50,24-Mar-15,24-Mar-25,26-Mar-18,INE774D07LE2,Interest
+AV2017,25,27-Mar-17,25-Mar-22,27-Mar-18,INE774D07RD1,Interest
+AH2015,25,13-Mar-15,28-Mar-18,28-Mar-18,INE774D07LC6,Principal + Interest
+BW2016,100,28-Sep-16,28-Mar-19,28-Mar-18,INE774D07PU9,Interest

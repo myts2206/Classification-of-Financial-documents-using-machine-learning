@@ -1,0 +1,30 @@
+0,1,2,3,4,5,6
+,Quarter Ended,,,Year Ended,,
+Particulars,Mar-18,Mar-17,Y-on-YGrowth,Mar-18,Mar-17,Y-on-YGrowth
+Income,,,,,,
+Revenue,"196,343","219,346",-10%,"836,879","954,683",-12%
+Other income,753,460,64%,"2,488","1,206",106%
+Total,"197,096","219,806",-10%,"839,367","955,889",-12%
+Expenses,,,,,,
+Network operating expenses,"48,071","51,628",-7%,"197,520","209,154",-6%
+Access Charges,"20,288","22,761",-11%,"90,446","102,786",-12%
+License fee / spectrum charges (revenue share),"17,476","20,850",-16%,"75,558","92,760",-19%
+Employee benefits,"9,949","10,498",-5%,"39,771","43,032",-8%
+Sales and marketing expenses,"14,118","15,820",-11%,"55,766","66,732",-16%
+Other expenses,"17,142","19,189",-11%,"77,027","86,921",-11%
+Total,"127,044","140,746",-10%,"536,088","601,385",-11%
+Profit from operating activities before,,,,,,
+"depreciation, amortization and exceptional","70,052","79,060",-11%,"303,279","354,504",-14%
+items,,,,,,
+Depreciation and amortisation,"48,991","49,418",-1%,"192,431","197,730",-3%
+Finance costs,"23,902","22,717",5%,"93,255","95,466",-2%
+Finance income,"(5,609)","(3,555)",58%,"(12,540)","(18,492)",-32%
+"Non-operating income/expenses, (net)",188,474,-60%,141,"1,319",-89%
+Share of results of joint ventures and associates,"(1,836)","(2,508)",-27%,"(10,609)","(10,449)",2%
+Profit before exceptional items and tax,"4,416","12,514",-65%,"40,601","88,930",-54%
+Exceptional items,"3,247","6,055",,"7,931","11,697",-32%
+Profit before tax,"1,169","6,459",-82%,"32,670","77,233",-58%
+Tax expense,,,,,,
+Current tax,"1,622","(8,964)",-118%,"18,230","21,240",-14%
+Deferred tax,"(4,643)","10,717",-143%,"(7,395)","13,579",-154%
+Profit for the period,"4,190","4,706",-11%,"21,835","42,414",-49%

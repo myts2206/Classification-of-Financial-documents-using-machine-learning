@@ -1,0 +1,41 @@
+0,1,2,3,4,5,6
+,Particulars,Quarter ended,Year ended,,,
+31.03.2018,31.12.2017,31.03.2017,31.03.2018,31.03.2017,,
+Audited,Unaudited,Audited,Audited,Audited,,
+1,Revenue from operations,,,,,
+,(a) Net sales/ income from operations (refer note 4) !,"398,863","426,899","358,213","1,623,287","1,484,479"
+,(b) Other operating income,"6,046","6,712","5,950","26,697","24,507"
+,Total revenue from operations,"404,909","433,611","364,163","1,649,984","1,508,986"
+2,Other Income,,,,,
+,(a) Foreign exchange gain (net),,726,"1,903",*,"6,205"
+,(b) Others,"4,383","2,579","2,175","10,198","5,384"
+,Total other Income,"4,383","3,305","4,078","10,198","11,589"
+,Total Income (1+2),"409,292","436,916","368,241","1,660,182","1,520,575"
+3,Expenses,,,,,
+,(a) Cost of materials consumed,"142,779","138,371","127,942","562,937","518,492"
+,(b) Purchase of stock-in-trade,"46,673","44,283","34,769","160,588","155,854"
+,"(c) Changes in inventories of finished goods, stock-in-trade and work-in-progress","(22,505)",(904),"(12,430)","(48,251)","(30,920)"
+,(d) Employee benefits expense,"58,127","54,068","46,346","213,084","176,776"
+,(e) Finance costs,"2,472","1,886","1,428","7,771","6,672"
+,(f) Foreign exchange loss (net),"1,592",-,-,"1,676",-
+,(g) Depreciation and amortisation expense,"15,663","13,808","10,005","55,797","42,763"
+,(h)Other expenses,"99,432","95,235","95,412","382,774","345,356"
+,Total expenses,"344,233","346,747","303,472","1,336,376","1,214,993"
+4,Profit before tax (1+2-3),"65,059","90,169","64,769","323,806","305,582"
+5,"Share of profit of joint ventures, net of tax",56,11,168,314,502
+6,Profit before tax (4+5),"65,115","90,180","64,937","324,120","306,084"
+7,Tax expense,"12,239","30,694","11,715","81,828","75,964"
+8,Net profit for the period (6-7),"52,876","59,486","53,222","242,292","230,120"
+9,Non controling interest,25,(15),(23),(26),(47)
+10,Net profit after taxes and non controling Interest (8-9),"52,851","59,501","53,245","242,318","230,167"
+11,Other Comprehensive income/ (expense),,,,,
+,i) items that will not be reclassified subsequently to profit or loss (net of tax),196,(137),40,(237),(579)
+,ii) items that will be reclassified subsequently to profit or loss,"10,184","(4,729)","(10,269)","15,191","(8,044)"
+,Total other comprehensive Income,"10,380","(4,866)","(10,229)","14,954","(8,623)"
+12,Total Comprehensive Income for the period (10+11),"63,231","54,635","43,016","257,272","221,544"
+13,Paid-up equity share capital (face value Re. 1 per share),"5,859","5,859","5,859","5,859","5,859"
+14,Other equity,,,,"1,162,183","931,332"
+15,Earnings per equity share of Re. 1 each (not annualised),,,,,
+,(a) Basic,9.02,10.16,9.10,41.36,39.33
+,(b)Diluted,9.02,10.16,9.10,41.36,39.33
+,,,,,,

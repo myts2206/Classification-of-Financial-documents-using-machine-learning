@@ -1,0 +1,39 @@
+0,1,2,3,4,5
+Particulars,Quarter Ended,Year Ended,,,
+31-Mar-18,31-Dec-17,31-Mar-17,31-Mar-18,31-Mar-17,
+Audited(Refer note 14),Unaudited,Audited(Refer note 14),Audited,Audited,
+Segment revenue,,,,,
+"Utilities, Geospatial and Communications (UGC)","3,901","3,725","3,474","14,594","12,997"
+Manufacturing and Industrial (MI),"5,300","5,323","4,866","20,599","19,419"
+Design Led Manufacturing (DLM),"1,417",785,"1,069","3,982","3,649"
+Total,"10,618","9,833","9,409","39,175","36,065"
+Less : Inter segment revenue,-,-,-,-,-
+Revenue from operations,"10,618","9,833","9,409","39,175","36,065"
+Segment results,,,,,
+"Segment profit before depreciation & amortisation, finance costs, share of profit/(loss)",,,,,
+from associate & joint venture and tax,,,,,
+"Utilities, Geospatial and Communications (UGC)",669,623,488,"2,514","1,923"
+Manufacturing and Industrial (Ml),694,800,500,"2,886","2,676"
+Design Led Manufacturing (DLM),97,8,(2),60,(13)
+Total,"1,460","1,431",986,"5,460","4,586"
+Less:,,,,,
+Depreciation and amortisation expense,257,275,255,"1,052",953
+Finance costs,57,51,33,204,172
+Add:,,,,,
+Other un-allocable income (net of un-allocable expenditure),399,219,259,"1,363",857
+Share of profit/(loss) from associate & joint venture,2,(202),33,(156),123
+Profit before tax,"1,547","1,122",990,"5,411","4,441"
+,,,As at,,
+,,,31-Mar-18,31-Dec-17,31-Mar-17
+,,,Audited,Unaudited,Audited
+Capital employed (Segment assets - Segment liabilities) (See Notes below),,,,,
+Segment assets,,,,,
+Design Led Manufacturing (DLM),,,"5,914","5,405","5,185"
+"Utilities, Geospatial and Communications (UGC) and Manufacturing and Industrial (MI)",,,"19,256","17,601","17,515"
+Unallocable,,,"9,156","9,173","8,664"
+Total Segment Assets,,,"34,326","32,179","31,364"
+Segment liabilities,,,,,
+Design Led Manufacturing (DLM),,,"2,146","1,854","1,718"
+"Utilities, Geospatial and Communications (UGC) and Manufacturing and Industrial (MI)",,,"5,196","4,826","5,593"
+Unallocable,,,"3,542","2,875","2,854"
+Total Segment Liabilities,,,"10,884","9,555","10,165"

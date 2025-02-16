@@ -1,0 +1,44 @@
+0,1,2,3,4,5,6,7
+Particulars,Standalone,Consolidated,,,,,
+Quarter ended,Year ended,Year ended,,,,,
+"March 31, 2018","December 31,2017","March 31,2017","March 31, 2018","March 31, 2017","March 31, 2018","March 31, 2017",
+(Audited)(Note 6),(Unaudited),(Audited)(Note 6),(Audited),(Audited),(Audited),(Audited),
+1 Income,,,,,,,
+(a) Revenue from operations,,,,,,,
+Sales/lncome from operations (Note 5),"1,20,579","1,31,843","1,23,877","5,03,034","5,30,952","5,06,020","5,33,897"
+Other operating income,"2,741","3,624","2,878","13,072","11,923","13,025","11,882"
+(b) Other income,"6,640","5,010","5,107","22,847","20,798","16,131","14,095"
+Total Income,"1,29,960","1,40,477","1,31,862","5,38,953","5,63,673","5,35,176","5,59,874"
+2 Expenses,,,,,,,
+(a) Cost of materials consumed,"64,879","65,085","60,510","2,53,136","2,71,383","2,51,699","2,70,017"
+(b) Purchases of traded goods,"17,525","16,612","21,471","68,673","53,929","70,662","56,139"
+"(c) Change in inventories of finished goods, work-in-progress and traded goods","(2,096)","3,766","(4,908)","4,001","2,136","4,084","2,001"
+(d) Excise duty on sale of goods (Note 5),-,-,"8,317","7,856","35,141","7,856","35,141"
+(e) Employee benefits expense,"11,797","13,171","10,685","49,791","43,338","51,125","44,528"
+(f) Finance cost,342,343,485,"1,483","1,678","1,519","1,707"
+(g) Depreciation and amortisation expense,"2,728","2,365","2,084","9,379","8,478","9,438","8,547"
+(h) Other expenses,"13,910","17,166","13,679","59,404","56,766","60,328","57,493"
+Total expenses,"1,09,085","1,18,508","1,12,323","4,53,723","4,72,849","4,56,711","4,75,573"
+3 Profit before exceptional items and tax (1 -2),"20,875","21,969","19,539","85,230","90,824","78,465","84,301"
+4 Exceptional items (Note 4),-,-,-,"5,612",-,"5,612",-
+5 Profit before tax (3+4),"20,875","21,969","19,539","90,842","90,824","84,077","84,301"
+6Tax expense,,,,,,,
+(a) Current tax,"4,035","4,663","5,306","18,874","17,178","20,332","18,637"
+(b) Deferred tax,518,87,"(1,613)",921,(617),976,(653)
+(c) Tax for earlier years,200,-,-,200,800,165,800
+Total tax expenses,"4,753","4,750","3,693","19,995","17,361","21,473","18,784"
+7 Profit after tax but before share of profits of joint ventures and associate (5-6),"16,122","17,219","15,846","70,847","73,463","62,604","65,517"
+8 Share of Profit of associate and joint venture,-,-,-,-,-,"8,578","8,110"
+9 Profit aftertax and share of profits of joint ventures and associate (7+8),"16,122","17,219","15,846","70,847","73,463","71,182","73,627"
+10 Other comprehensive income,57,(9),(451),190,"(1,222)",199,"(1,202)"
+11 Income tax effect,(21),52,155,(67),423,(69),417
+12 Net other comprehensive income before share of profits of joint ventures and,36,43,(296),123,(799),130,(785)
+associate (10+11),,,,,,,
+13 Share in Associate's and Joint Venturesâ€™ OCI after tax (net),-,-,-,-,-,18,(45)
+14 Net other comprehensive income/(expense) not to be reclassified to profit or loss,36,43,(296),123,(799),148,(830)
+in subsequent periods (12+13),,,,,,,
+15 Total comprehensive income (9+14),"16,158","17,262","15,550","70,970","72,664","71,330","72,797"
+16 Paid-up equity share capital (Face value ? 2 each),"5,544","5,544","5,544","5,544","5,544","5,544","5,544"
+17 Reserves,,,,"3,93,063","3,68,673","4,06,316","3,81,566"
+18 Earnings per share,,,,,,,
+Basic and diluted EPS for the period on net profit (Not annualized for the quarters) (?),5.82,6.21,5.72,25.56,26.50,25.68,26.56

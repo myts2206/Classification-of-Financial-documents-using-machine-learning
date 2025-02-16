@@ -1,0 +1,23 @@
+0,1,2,3,4,5,6
+$r.No.,Particulars,3 Monthsended31/03/2018(Audited),Preceding3 Monthsended31/12/2017(Reviewed),Corresponding3 Monthsended31/03/2017(Audited),Year ended31/03/2018(Audited),Correspondingyearended31/03/2017(Audited)
+1,Revenue from Operations (see Note 3),"99,174","96,897","1,89,023","3,92,129","6,39,295"
+1!,Other income,"1,677","2,743","2,760","11,403","9,161"
+in,Total Income (1+11),"1,00,851","99,640","1,91,783","4,03,532","6,48,456"
+,,,,,,
+IV,Expenses,,,,,
+,Cost of materials consumed,"18,969","16,872","56,501","67,178","2,36,815"
+,Purchases of stock-in-trade,-,-,224,-,"1,045"
+,"Changes in inventories of finished goods, work-in-progress, stock-in-trade and by products-","7,669","2,977","6,280","12,748","(2,383)"
+,Excise Duty (see Note 3),-,-,"2,689","2,873","10,455"
+,Employee benefits expense,"8,720","8,568","8,250","34,667","33,416"
+,Power and fuel,"12,587","12,814","11,284","50,549","44,588"
+,"EPC, O&M, Common Infrastructure facility and site development expenses","7,038","3,276","26,950","21,025","49,890"
+,Film Exhibition Cost,"8,131","9,048","7,976","36,732","34,533"
+,Foreign Exchange Fluctuation (Gain)/Loss (net),(360),(614),"(1,829)","(1,876)","(2,212)"
+,Finance costs,"6,344","5,506","7,532","27,921","27,899"
+,Depreciation and amortisation expense,"7,400","7,581","8,429","29,922","34,870"
+,Impairment losses,183,-,"2,491",310,"2,491"
+,Other expenses,"32,902","25,410","30,699","1,10,786","1,13,602"
+,Total Expenses,"1,09,583","91,438","1,67,476","3,92,835","5,85,009"
+,Less: Expenditure capitalized (see Note 8),"(13,349)",-,-,"(18,211)",(952)
+,Net Expenses (IV),"96,234","91,438","1,67,476","3,74,624","5,84,057"

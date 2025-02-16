@@ -1,0 +1,52 @@
+0,1,2
+A ASSETS1 Non-current assets,,
+"(a) Property, plant and equipment","36,297","35,529"
+(b) Capital work-in-progress,"7,789","5,327"
+(c) Investment property,-,8
+(d) Goodwill,264,264
+(e) Other intangible assets,434,458
+(f) Intangible assets under development,"5,239","3,065"
+(g) Investments in associates and a joint venture,638,422
+(h) Financial assets,,
+Investments,-,"1,458"
+Derivative assets,"1,109","1,092"
+Other financial assets,248,197
+"(i) Income tax asset, net","1,273",895
+"(j) Deferred tax asset, net","1,934","1,975"
+(k) Other non-current assets,"3,186","2,775"
+Non-current assets,"58,411","53,465"
+2 Current assets,,
+(a) Inventories,"7,225","6,353"
+(b) Financial assets,,
+Investments,"6,114","10,650"
+Trade receivables,"10,639","8,832"
+Cash and cash equivalents,"5,012","7,102"
+Other bank balances,"8,216","3,341"
+Derivative assets,995,"1,059"
+Other financial assets,"1,915","2,143"
+(c) Other current assets,"1,370",997
+Current assets,"41,486","40,477"
+TOTAL-ASSETS,"99,897","93,942"
+B EQUITY AND LIABILITIES1 Equity,,
+(a) Equity share capital,"3,000","1,000"
+(b) Other equity,"48,808","47,377"
+Equity attributable to owners of the Company,"51,808","48,377"
+Non-controlling interests,"4,677","3,761"
+Total Equity,"56,485","52,138"
+2 Non-current liabilities(a) Financial liabilities,,
+Borrowings,"17,898","21,082"
+Derivative liability,183,61
+Other financial liabilities,2,2
+(b) Provisions,493,360
+(c) Other non-current liabilities,"3,423","3,516"
+Non-current liabilities,"21,999","25,021"
+3 Current liabilities(a) Financial liabilities,,
+Borrowings,"1,303",972
+Trade payables,"10,053","7,397"
+Derivative liability,62,63
+Other financial liabilities,"5,563","4,085"
+(b) Provisions,465,468
+"(c) Income tax liability, net",891,964
+(d) Other current liabilities,"3,076","2,834"
+Current liabilities,"21,413","16,783"
+TOTAL - EQUITY AND LIABILITIES,"99,897","93,942"

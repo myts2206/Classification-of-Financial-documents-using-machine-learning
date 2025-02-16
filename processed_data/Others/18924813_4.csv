@@ -1,0 +1,17 @@
+0,1,2,3,4,5
+SI.No.,Name of theStatute,Natureof theDues,PendingAmount,Amountpaidunderprotest,Forum where disputeis pending
+1,"Central Sales TaxAct, Value AddedTax and Sales TaxAct of variousStates","SalesTax,VAT",79.66,25.65,Assessing Officer
+326.19,50.98,Dy. Commissioner / Jt.Commissioner/Commissioner (Appeals),,,
+401.78,157.73,Appellate Tribunal,,,
+459.54,27.86,High Court,,,
+2.87,2.83,Supreme Court,,,
+419.74,30.52,Various AppellateAuthorities,,,
+2,"Income Tax Act,1961",IncomeTax,0.08,-,Assessing Officer
+0.02,-,Commissioner(Appeals),,,
+10.56,-,High Court,,,
+3,"Central ExciseAct, 1944",ExciseDuty,77.68,7.35,Commissioner (Appeals)
+176.29,3.49,Appellate Tribunal,,,
+57.46,5.69,High Court,,,
+4,"Service Tax underthe Finance Act,1994",ServiceTax,34.93,2.80,Various AppellateAuthorities
+335.74,5.71,Appellate Tribunal,,,
+17.15,-,High Court,,,

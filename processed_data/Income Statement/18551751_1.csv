@@ -1,0 +1,46 @@
+0,1,2,3,4,5,6
+SI .No,Particulars,Quarter ended,Preceding quarter,Corresponding,Current year,Previous year
+,,(31/03/2018),ended,quarter ended,ended,ended
+,,,(31/12/2017),(31/03/2017),(31/03/2018),(31/03/2017)
+,,(Refer Note 6),(Unaudited),(Refer Note 6),(Audited),(Audited)
+1,Income,,,,,
+,Revenue from operations (refer note 1),"2,032.91","1,966.44","1,914.68","7,748.34","7,701.44"
+,Other income,73.24,66.34,65.04,305.18,298.35
+,Total income,"2,106.15","2,032.78","1,979.72","8,053.52","7,999.79"
+2,ExpensesCost of materials consumed (including excise duty),927.52,804.90,806.79,"3,246.54","3,112.61"
+,Purchases of stock in trade,131.04,239.78,197.99,665.80,753.63
+,"Changes in inventories of finished goods, stock-in-trade and work-in-",(56.18),(92.33),(28.63),(65.93),(23.02)
+,progressEmployee benefits expense,180.74,204.83,173.08,792.79,789.61
+,Finance costs,13.24,13.21,11.66,53.05,54.03
+,Depreciation and amortisation expenseOther expenses,42.59,40.45,39.54,162.18,142.86
+,Advertisement and publicity,125.64,185.32,123.01,606.71,646.14
+,Others,238.97,220.47,224.88,884.99,913.53
+,Total expenses,"1,603.56","1,616.63","1,548.32","6,346.13","6,389.39"
+3,Profit before shareofprofit/(loss)from jointventure and exceptionalitems,502.59,416.15,431.40,"1,707.39","1,610.40"
+,Share of profit / (loss) of joint venture,(0.18),0.17,(0.08),0.24,0.25
+4,Profit before exceptional items and tax,502.41,416.32,431.32,"1,707.63","1,610.65"
+,Exceptional items,-,-,-,14.54,-
+5,Profit before tax,502.41,416.32,431.32,"1,693.09","1,610.65"
+6,Tax expenseCurrent tax,152.02,79.29,125.06,371.34,344.34
+,Deferredtax,(46.79),4.00,(27.39),(35.99),(14.00)
+,Net profit for the period/year,397.18,333.03,333.65,"1,357.74",1.280.31
+7,Other comprehensive income,,,,,
+a),Items that will not be reclassified to profit or loss,(2-14),(0.48),4.46,(4.20),2.67
+,Income tax relating to items that will not be reclassified to profit orloss,(0-16),0.10,(1.78),0.15,(1.16)
+b),Items thatwill bereclasssified toprofit or loss,6.92,(34.63),(33.35),(28.04),(148.83)
+,Income tax relating to items that will be reclasssified to profit or loss,0.86,7.53,4.84,8.79,(3.26)
+8,Total comprehensive income for the period/year,402.66,305.55,307.82,"1,334.44","1,129.73"
+,,,,,,
+,Net profit attributable to:,,,,,
+,Ownersof the holding company,396.20,332.12,333.11,"1,354.39","1,276.94"
+,Non-controlling interest,0.98,0.91,0.54,3.35,3.37
+,,,,,,
+,Other comprehensive income attributable to:,,,,,
+,Owners of the holding company,5.41,(26.96),(25.02),(21.72),(150.27)
+,Non-controlling interest,0.07,(0.52),(0.81),(1.58),(0.31)
+,,,,,,
+9,Paid-up eauitv share capital (Face value of ? 1 each),176.15,176.15,176.15,176.15,176.15
+10,Other equity,,,,"5,530.37","4,671.24"
+11,Earnings per share (Face value of ? 1 each) (not annualised),,,,,
+,Basic (?),2.25,1.89,1.89,7.69,7.25
+,Diluted (?),2.24,1.88,1.88,7.66,7.21

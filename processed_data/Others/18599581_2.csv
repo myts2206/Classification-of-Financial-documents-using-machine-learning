@@ -1,0 +1,35 @@
+0,1,2,3,4,5,6
+S.No.,Particulars,Quarter ended,Year ended,,,
+Audited,Unaudited,Audited,Audited,,,
+(Refer noteno: 5),,(Refer noteno: 5),,,,
+31.03.2018,31.12.2017,31.03.2017,31.03.2018,31.03.2017,,
+1,Segment Revenue,,,,,
+,Abrasives,23061,22412,22586,86359,85917
+,Ceramics,11781,10128,10519,40560,38986
+,Electrominerals,11724,10769,9347,41068,33960
+,Total,46566,43309,42452,167987,158863
+,Less: Inter-Segment Revenue,2655,2749,2251,10245,9177
+,Gross Sales / Income from operations,43911,40560,40201,157742,149686
+2,Segment Results,,,,,
+,(Profit (+) / Loss (-) before Finance costs and tax),,,,,
+,Abrasives,3465,3508,2866,12252,10468
+,Ceramics,1839,1317,1520,5416,5086
+,Electrominerals,1193,966,256,3252,2116
+,Total,6497,5791,4642,20920,17670
+,Less: (i) Finance costs,58,17,204,147,876
+,(ii) Other unallocable expenses/ (income) net,(958),430,(1525),254,(276)
+,Total profit before tax,7397,5344,5963,20519,17070
+,Less: Tax expense,2103,1586,1423,6171,4893
+,Net profit after tax,5294,3758,4540,14348,12177
+3a,Segmental assets,,,,,
+,Abrasives,44317,45471,40962,44317,40962
+,Ceramics,34331,34179,32555,34331,32555
+,Electrominerals,30635,31280,29745,30635,29745
+,Unallocable,34303,30114,26470,34303,26470
+,,143586,141044,129732,143586,129732
+3b,Segmental liabilities,,,,,
+,Abrasives,10781,11497,9739,10781,9739
+,Ceramics,4493,4755,4357,4493,4357
+,Electrominerals,6670,5738,4862,6670,4862
+,Unallocable,4675,4965,5271,4675,5271
+,,26619,26955,24229,26619,24229

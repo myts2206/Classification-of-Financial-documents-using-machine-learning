@@ -1,0 +1,52 @@
+0,1,2,3,4,5
+,STANDALONE,CONSOLIDATED,,,
+Statement of Assets and Liabilities,"As at 31st March,2018","As at 31st March,2017","As at 31st March,2018","As at 31st March,2017",
+A,ASSETS,,,,
+1,Non-current assets,,,,
+,"Property, plant and equipment","3,776","3,654","4,080","3,968"
+,Capital work-in-progress,430,203,461,229
+,Goodwill,0,0,0,0
+,Other intangible assets,366,370,367,370
+,Goodwill on consolidation,-,-,81,81
+,"Investments in subsidiaries, associates and joint venturesFinancial assets",254,254,,
+,- Investments,2,6,2,6
+,- Loans,404,352,184,168
+,- Other financial assets,6,6,6,6
+,Non-current tax assets (net),439,311,635,461
+,Deferred tax assets (net),255,160,302,170
+,Other non-current assets,78,70,84,75
+,Total Non-current assets,"6,010","5,386",6.202,"5,534"
+2,Current assetsInventoriesFinancial assets,"2,359","2,362","2,513","2,541"
+,- Investments,"2,855","3,519","2,871","3,788"
+,- Loans,-,-,4,-
+,- Trade receivables,"1,147",928,"1,310","1,085"
+,- Cash and cash equivalents,573,572,649,628
+,- Bank balances other than cash and cash equivalents mentioned above,"2,800","1,099","2,836","1,200"
+,- Other financial assets,829,306,805,331
+,Other current assets,560,507,656,552
+,Assets held for sale,16,72,16,47
+,Total - Current assets,"11,139","9,365","11,660","10,172"
+,,,,,
+,TOTAL - ASSETS,"17,149","14,751","17,862","15,706"
+B,EQUITY AND LIABILITIES,,,,
+1,EQUITY,,,,
+,Equity share capital,216,216,216,216
+,Other equity,"6,859","6,274","7,065","6,528"
+,Non-controlling interest,-,-,20,22
+,Total-Equity,"7,075","6,490","7,301","6,766"
+2,LIABILITIES,,,,
+,Non-current liabilitiesFinancial liabilities,,,,
+,- Otlper financial liabilities,115,71,119,73
+,Provisions,772,485,800,514
+,Non-current tax liabilities (net),384,296,558,432
+,Other non-current liabilities,167,207,197,207
+,Total-Non-current liabilities,"1,438","1,059","1,674","1,226"
+,Current liabilitiesFinancial liabilities,,,,
+,- Borrowings,-,-,-,277
+,- Trade payables,"7,013","6,006","7,170","6,186"
+,- Other financial liabilities,203,181,214,195
+,Other current liabilities,769,628,815,664
+,Provisions,651,387,688,392
+,Total - Current liabilities,"8,636","7,202","8,887","7,714"
+,,,,,
+,TOTAL - EQUITY AND LIABILITIES,"17,149","f\14,75]/","17,862","15,706"

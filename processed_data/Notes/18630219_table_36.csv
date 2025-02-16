@@ -1,0 +1,16 @@
+0,1,2
+Opening Balance,300000.00,200000.00
+Transfer From Surplus in Statement of Profit,0.00,100000.00
+Closing Balance,1        300000.001,300000.00
+(b) Share Premium,,
+Opening Balance,100000000.00,100000000.00
+Add: Share premium on preference shares issued,0.00,0.00
+Closing Balance,1 100000000.001,100000000.00
+(c) Surplus in statementofProfit,,
+Opening Balance,19004837.84,16910118.08
+Add: Profit for the year,913273.79,2094719.76
+Less: Appropriations,,
+Transfer to General Reserve,0.00,0.00
+Proposed Dividend,0.00,0.00
+Tax on Proposed Dividend,0.00,0.00
+Closing Balance,1     19918111.631,19004837.84

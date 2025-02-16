@@ -1,0 +1,30 @@
+0,1,2
+Sr. No.,Name of the Entity,Relationship
+1,Jain Irrigation Systems Limited,Holding Company
+2,Jain Farm Fresh Foods Limited,Subsidiary Company
+3,"JISL Overseas Limited, Mauritius",Subsidiary Company
+4,"Jain International Trading B.V., Netherlands",Subsidiary Company
+5,Jain Processed Foods Trading andInvestments Private Limited,Subsidiary Company
+6,"Jain America Foods Inc., U.S.A.",Step down Subsidiary
+7,"Jain (Europe) Limited, U.K.",Step down Subsidiary
+8,"Jain International Foods Limited, U.K.",Step down Subsidiary
+9,"Jain Overseas B.V., Netherlands",Step down Subsidiary
+10,"Jain (Israel) B.V., Netherlands",Step down Subsidiary
+11,"Cascade Specialties Inc., U.S.A.",Step down Subsidiary
+12,"Jain Irrigation Holding Inc., U.S.A.",Step down Subsidiary
+13,"Jain Irrigation Inc., U.S.A.",Step down Subsidiary
+14,"Jain Agricultural Services LLC, U.S.A.",Step down Subsidiary
+15,"Jain Agricultural Services Australia Pty.Limited, Australia",Step down Subsidiary
+16,"Jain America Holdings Inc., U.S.A.",Step down Subsidiary
+17,"JISL Global S.A., Switzerland",Step down Subsidiary
+18,"JISL Systems S.A., Switzerland",Step down Subsidiary
+19,"THE Machines Yvonand S.A., Switzerland",Step down Subsidiary
+20,"Pro Tool AG, Switzerland",Step down Subsidiary
+21,"Jain Distribution Holdings Inc., U.S.A.",Step down Subsidiary
+22,"Agri-Valley Irrigation LLC, U.S.A.",Step down Subsidiary
+23,"Irrigation Design & Construction LLC, U.S.A.",Step down Subsidiary
+24,"Gavish Control Systems Limited, Israel",Step down Subsidiary
+25,"Sleaford Food Group Limited, U.K.",Step down Subsidiary
+26,"Sleaford Quality Foods Limited, U.K.",Step down Subsidiary
+27,"Arnolds Quick Dried Foods Limited, U.K.",Step down Subsidiary
+28,"Ex-Cel Plastics Limited, Ireland",Step down Subsidiary

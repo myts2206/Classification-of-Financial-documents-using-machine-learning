@@ -1,0 +1,8 @@
+0,1,2,3,4,5,6,7
+Particulars,"As at January 01, 2016",,,,,,
+EUR,USD,HKD,GBP,AUD,CHF,NPR,
+Trade receivables,"1,028",82,-,-,-,-,-
+Cash and cash equivalents,29,1,-,-,-,-,-
+Trade payables,(553),(27),*,-,*,*,-
+Forward Exchange contracts,(288),-,-,-,-,-,-
+Net exposure,216,56,*,-,*,*,-

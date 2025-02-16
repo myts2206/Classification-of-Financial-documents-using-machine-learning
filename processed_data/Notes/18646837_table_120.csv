@@ -1,0 +1,14 @@
+0,1,2,3,4,5,6,7
+Particulars of Derivatives,ForeignCurrency,"December 31, 2017","December 31, 2016","January 01, 2016",,,
+ForeignCurrencyValue,Rupees inMillion,ForeignCurrencyValue,Rupees inMillion,ForeignCurrencyValue,Rupees inMillion,,
+Trade Payables,EUR,"9,117,132",697,"10,191,763",728,"7,675,209",553
+,USD,"915,146",58,"615,993",42,"405,938",27
+,CHF,-,-,-,-,"5,520",*
+,HKD,-,-,"44,774",*,"44,774",*
+,AUD,-,-,-,-,"7,190",*
+,GBP,"19,356",2,-,-,-,
+Trade Receivables,EUR,"16,647,063","1,272","8,851,230",632,"10,278,687",740
+,USD,"1,172,647",75,"1,262,545",86,"1,237,839",82
+,NPR,-,-,"18,900",*,-,-
+Cash and Bank Balances,EUR,"538,342",41,"642,349",46,"399,739",29
+,USD,"167,386",11,"7,650",1,"9,164",1

@@ -1,0 +1,15 @@
+0,1,2,3,4,5,6,7,8,9
+,"December 31, 2017","December 31, 2016","January 01, 2016",,,,,,
+FVPL,FVOCI,Amortised cost,FVPL,FVOCI,Amortised cost,FVPL,FVOCI,Amortised cost,
+Financial assets,,,,,,,,,
+Investments,-,2,-,-,2,-,-,2,-
+Loans,-,-,"4,088",-,-,"3,195",-,-,"1,745"
+Trade receivables,-,-,"1,944",-,-,"1,448",-,-,"1,440"
+Cash and cash equivalents,-,-,"7,215",-,-,"5,535",-,-,"5,666"
+Bank balances other than cash and cash equivalents,-,-,84,-,-,75,-,-,56
+Other financial assets,-,-,132,-,-,194,-,-,178
+Total financial assets,-,2,"13,463",-,2,"10,447",-,2,"9,085"
+Financial liabilities,,,,,,,,,
+Trade payables,-,-,"3,269",-,-,"2,308",-,-,"2,175"
+Other financial liabilities,,,102,,,161,,,110
+Total financial liabilities,-,-,"3,371",-,-,"2,469",-,-,"2,285"

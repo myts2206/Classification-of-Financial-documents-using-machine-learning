@@ -1,0 +1,15 @@
+0,1,2,3,4,5,6
+Series Id,Issue Size(Rs in Crs),Allotment Date,Maturity Date,Due Date,ISIN No,Due Category
+BP2016,50,1-Sep-16,30-Aug-19,3-Sep-18,INE774D07PN4,Interest
+BQ2016,25,2-Sep-16,2-Sep-19,3-Sep-18,INE774D07PO2,Interest
+BI2017,350,5-Sep-17,4-Sep-20,5-Sep-18,INE774D07RQ3,Interest
+BJ2017,400,6-Sep-17,6-Sep-19,6-Sep-18,INE774D07RR1,Interest
+1A,1.95,06-Jun-16,06-Dec-21,06-Sep-18,INE774D08LP6,Quarterly Interest
+IB,7.09,06-Jun-16,06-Dec-21,06-Sep-18,INE774D08LQ4,Quarterly Interest
+2A,5.24,06-Jun-16,06-Jun-23,06-Sep-18,INE774D08LR2,Quarterly Interest
+2B,1.30,06-Jun-16,06-Jun-23,06-Sep-18,INE774D08LS0,Quarterly Interest
+3A,0.90,06-Jun-16,06-Jun-26,06-Sep-18,INE774D08LT8,Quarterly Interest
+3B,24.73,06-Jun-16,06-Jun-26,06-Sep-18,INE774D08LU6,Quarterly Interest
+BR2016,50,8-Sep-16,7-Feb-20,10-Sep-18,INE774D07PP9,Interest
+BV2016,50,23-Sep-16,23-Sep-19,24-Sep-18,INE774D07PT1,Interest
+BK2017,475,28-Sep-17,25-Sep-19,28-Sep-18,INE774D07RS9,Interest

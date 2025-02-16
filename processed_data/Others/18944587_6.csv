@@ -1,0 +1,36 @@
+0,1,2,3
+c,,Consolidated,
+No.,Particulars,Year ended,
+,31-03-2018,31-03-2017,
+1,Segment Revenue :a. Scientificware,"18,628.31","15,921.50"
+,b. Consumerware,"24,890.97","22,881.32"
+,c. Flat Glass,"19,979.12","18,825.57"
+,d. Others,84.12,74.47
+,Total,"63,582.52","57,702.86"
+,Less : Inter Segment Revenue,-,-
+,Revenue from operations,"63,582.52","57,702.86"
+2,Segment Results (Profit before tax and non-controlling interests):a. Scientificware,"3,212.98","3,071.65"
+,b. Consumerware,"1,212.28",(254.83)
+,c. Flat Glass,"2,222.27","3,304.24"
+,d. Investments,"2,079.50","2,901.43"
+,e. Others,21.92,19.20
+,Total,"8,748.95","9,041.69"
+,Less:- Finance cost,682.12,777.01
+,Less:- Exceptional item (Refer Note 5),195.37,"(9,087.64)"
+,Less:- Other unallocable expenditure (net of income),423.95,"1,979.94"
+,Add:- Share of profit in an associate,139.31,241.59
+,Profit before Tax,"7,586.82","15,613.97"
+3,Segment Assetsa. Scientificware,"10,950.24","9,222.42"
+,b. Consumerware,"22,462.14","15,921.19"
+,c. Flat Glass,"18,708.55","21,437.18"
+,d. Investments,"38,945.19","30,054.32"
+,e. Others,20.15,22.93
+,f. Un-al located,"16,365.69","22,968.57"
+,Total,"1,07,451.96","99,626.61"
+4,Segment Liabilitiesa. Scientificware,"4,390.81","2,719.39"
+,b. Consumerware,"5,619.71","3,340.57"
+,c. Flat Glass,"2,462.92","2,300.41"
+,d. Investments,6.74,6.76
+,e. Others,1.75,1.75
+,f. Un-alfocated,"7,421.10","9,156.72"
+_L,Total,"19,903.03","17,525.60"

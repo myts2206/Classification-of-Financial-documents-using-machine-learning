@@ -1,0 +1,32 @@
+0,1,2,3,4,5,6
+,PARTICULARS,Quarter ended,Year ended,,,
+,,"31.03,2018",31.12.2017,31.03.2017,31.03.2018,31.03.2017
+,,Unaudited,Unaudited,Unaudited,Audited,Audited
+,Segment Revenue,,,,,
+,Liquid Terminal Division,"4,450","4,030","3,980","16,828","15,388"
+,Gas Terminal Division,"1,20,742","1,40,178","1,22,770","4,62,268","3,77,641"
+,Net Sales / Income from Operations,"1,25,192","1,44,208","1,26,750","4,79,096","3,93,029"
+,Segment Results,,,,,
+,Liquid Terminal Division,"1,705","2,087","2,090","8,480","7,297"
+,Gas Terminal Division,"4,886","5,160","3,165","18,436","13,973"
+,sub-total,"6,591","7,247","5,255","26,916","21,270"
+,Less:Finance Cost,357,486,413,"1,523","1,634"
+,Other un-allocable expenditure (net),588,923,692,"3,171","2,988"
+,Add : Interest Income,51,85,109,260,269
+,Total Profit Before Tax,"5,697","5,923","4,259","22,482","16,917"
+,Segment Assets,,,,,
+,Liquid Terminal Division,"1,05,660","1,06,842","60,188","1,05,660","60,188"
+,Gas Terminal Division,"1,10,103","1,09,421","1,05,251","1,10,103","1,05,251"
+,Unallocable,"5,630","8,965","8,321","5,630","8,321"
+,Total,"2,21,393","2,25,228","1,73,760","2,21,393","1,73,760"
+,Segment Liabilities,,,,,
+,Liquid Terminal Division,"11,491","16,821","6,263","11,491","6,263"
+,Gas Terminal Division,"47,675","47,902","70,663","47,675","70,663"
+,Unallocable,"4,126","7,886","2,500","4,126","2,500"
+,Total,"63,232","72,609","79,426","63,292","79,426"
+,Capital employed,,,,,
+,Liquid Terminal Division,"94,169","90,021","53,925","94,169","53,925"
+,Gas Terminal Division,"62,428","61,519","34,588","62,428","34,588"
+,Unallocable,"1,504","1,079","5,821","1,504","5,821"
+,Total,"1,58,101","1,52,619","94,334","1,58,101","94,334"
+,,,,,,

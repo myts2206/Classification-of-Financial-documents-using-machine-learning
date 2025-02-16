@@ -1,0 +1,32 @@
+0,1,2,3,4,5,6
+SI.,Particulars,Quarter Ended,Year Ended,,,
+No.,31.03.2018,31.12.2017,31.03.2017,31.03.2018,31.03.2017,
+,,(Audited),(Unaudited),(Audited),(Audited),(Audited)
+1.,Revenue from Operations,1803.47,1732.66,1790.55,6578.50,6607.51
+II.,Other Income,6.32,10.93,44.65,32.45,59.66
+III.,Total Income (l+ll),1809.79,1743.59,1835.20,6610.95,6667.17
+IV.,ExpensesCost of Materials Consumed,944.40,974.01,875.47,3748.74,3200.17
+,Purchases of Stock-in-Trade,231.36,136.40,190.82,667.96,565.53
+,"(Increase) / Decrease in Inventories of Finished Goods, Work-in-progress and Stock-in-trade",(21.14),48.77,78.80,(69.80),(68.74)
+,Employee Benefits Expense,142.47,133.23,124.67,523.60,534.90
+,Finance Costs,68.11,67.76,66.00,274.12,267.58
+,Depreciation and Amortisation Expense,44.02,44.33,44.23,175.13,183.58
+,Excise Duty on Sales,-,-,156.97,125.15,628.39
+,Other Expenses,282.90,287.48,276.24,1095.51,1001.30
+,Total Expenses,1692.12,1691.98,1813.20,6540.41,6312.71
+V.,Profit / (Loss) before Exceptional Items and Tax (lll-IV),117.67,51.61,22.00,70.54,354.46
+VI.,Exceptional Items,(0.26),(5.70),49.90,(6.69),105.24
+VII.,Profit / (Loss) before Tax (V+VI),117.41,45.91,71.90,63.85,459.70
+VIII.,Tax Expense(1) Current Tax,15.96,.,20.30,15.96,103.97
+,(2) Mat Credit Entitlement,(18.44),-,(49.04),(18.44),(67.09)
+,(3) Deferred Tax,43.29,16.62,29.63,23.24,90.69
+IX.,Profit/(Loss) for the Period (PAT) (VII-VIII),76.60,29.29,71.01,43.09,332.13
+X.,Other Comprehensive IncomeItems that will not be Reclassified to Profit or Loss:,,,,,
+,- Re-measurement Losses on Defined Benefit Hans,1.37,(2.70),(3.71),(6.88),(14.61)
+,- Income Tax Relating to Items that will not be Reclassified,(0.48),0.94,1.29,2.38,5.06
+,to Profit or Loss,,,,,
+,Total Other Comprehensive Income,0.89,(1.76),(2.42),(4.50),(9.55)
+XI.,Total Comprehensive Income for the Period (IX+X),77.49,27.53,68.59,38.59,322.58
+XII.,Paid-Up Equity Share Capital(Face Value: ?2 per share),45.36,45.36,45.36,45.36,45.36
+XIII.,Other Equity excluding Revaluation Reserve,,,,1598.93,1628.59
+XIV.,Earnings per equity share of ?2 each- Basic / Diluted (?),3.38,1.29,3.13,1.90,14.64

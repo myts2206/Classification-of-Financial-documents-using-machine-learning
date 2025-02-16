@@ -1,0 +1,42 @@
+0,1,2,3,4,5,6
+,,Quarter Ended,Year Ended,,,
+Sr. No.,,31 March,31 December,31 March,31 March,31 March
+Particulars,(Audited),(Unaudited),(Audited),(Audited),(Audited),
+,,2018,2017,2017,2018,2017
+1,Segment revenue,,,,,
+,a. Pharmaceuticals,123774,110073,80847,401679,311665
+,b. Life Sciences Ingredients,96981,92574,78384,337239,271432
+,c. Drug Discovery Solutions,4694,4485,5130,17723,18241
+,Total,225449,207132,164361,756641,601338
+,Less : Intersegment revenue,253,356,219,860,706
+,Total revenue from operations,225196,206776,164142,755781,600632
+,a. Pharmaceuticals,123774,110073,80847,401661,311665
+,b. Life Sciences Ingredients,96751,92245,78196,336489,270762
+,c. Drug Discovery Solutions,4671,4458,5099,17631,18205
+,Total,225196,206776,164142,755781,600632
+2,"Segment results (proflt(+)/loss(-) before tax, exceptional Items and Interest from each segment)",,,,,
+,a. Pharmaceuticals,14155,17701,16566,66164,78536
+,b. Life Sciences Ingredients,16589,18505,9573,54814,35170
+,â–  Drue Discovery Solutions,795,65,236,806,1263
+,Total,31539,36271,26375,121784,114969
+,Less : i Interest (Finance costs),7248,7706,8019,28428,34111
+,ii Exceptional items and un-allocable expenditure (net of un-allocable income),1635,2447,2346,7448,7094
+,Profit before tax,22656,26118,16010,85908,73764
+3,Segment assets,,,,,
+,a. Pharmaceuticals,617084,607962,586963,617084,586963
+,b. Life Sciences Ingredients,293088,290172,260353,293088,260353
+,c. Drug Discovery Solutions,15938,17844,18007,15938,18007
+,d Unallocable corDorate assets (excluding deferred tax assets),19607,20758,24552,19607,24552
+,Total Segment assets,945717,936736,889875,945717,889875
+4,Segment liabilities,,,,,
+,a. Pharmaceuticals,63034,58960,44878,63034,44878
+,b. Life Sciences Ingredients,86811,77608,60289,86811,60289
+,c. Drug Discovery Solutions,3372,3341,3018,3372,3018
+,d Unallocable corporate liabilities (excluding borrowings and deferred tax liabilities),41849,36322,33846,41849,33846
+,Total Segment liabilities,195066,176231,142031,195066,142031
+5,Capital employed (Segment assets less Segment liabilities),,,,,
+,a. Pharmaceuticals,554050,549002,542085,554050,542085
+,b. Life Sciences Ingredients,206277,212564,200064,206277,200064
+,c Drug Discovery Solutions,12566,14503,14989,12566,14989
+,d. Unallocable corporate assets less liabilities,(22242),(15564),(9294),(22242),(9294)
+,Total Capital employed,750651,760505,747844,750651,747844

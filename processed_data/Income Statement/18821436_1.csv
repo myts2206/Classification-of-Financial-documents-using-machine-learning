@@ -1,0 +1,38 @@
+0,1,2,3,4,5,6,7,8
+,Particulars,March,"QuarterEnded31, 2018","QuarterEndedDecember 31, 2017","QuarterEndedMarch 31, 2017","YearEndedMarch 31, 2018","YearEndedMarch 31, 2017",
+,,,,(Audited),(Unaudited),(Unaudited),(Audited),(Audited)
+1,Income,,,,,,,
+,(a) Revenue from operations,,,,,,,
+,(i) Net Sales (Refer Note 1),,,"108,506","102,697","117,177","429,989","448,985"
+,(ii) Other Operating Income,,,660,635,494,"2,853","3,035"
+,(b) Other Income,,,848,904,932,"3,882","4,112"
+,Total Income,,,"110,014","104,236","118,603","436,724","456,132"
+2,Expenses,,,,,,,
+,(a) Cost of materials consumed,,,"30,528","27,456","26,349","118,897","115,600"
+,(b) Purchases of stock-in-trade,,,"5,424","8,282","10,454","28,443","31,475"
+,"(c) Changes in inventories of finished goods, work-in-progress",,,,,,,
+,and stock-in-trade,,,"1,544",240,"1,970","1,668",558
+,(d) Excise Duty,,,-,-,"13,919","14,045","53,838"
+,(e) Employee benefits expense,,,"7,583","7,504","7,631","30,593","28,850"
+,(f) Depreciation and Amortisation expense,,"4,048","3,957","3,413","15,651","13,324",
+,(g) Other Expenses,,,,,,,
+,(i) Advertising,,,"14,355","12,070","14,425","52,683","51,173"
+,(ii) Others,,,"18,980","19,538","18,623","75,276","76,171"
+,Total Expenses,,,"82,462","79,047","96,784","337,256","370,989"
+3,Profit Before Exceptional Item and Tax (1-2),,"27,552","25,189","21,819","99,468","85,143",
+4,Exceptional Item (Refer Note 4),SIGNED FORJDENTIFiCATIGN,,"1,165",-,-,"1,165",-
+5,Profit Before Tax (3-4),BVL,,"26,387","25,189","21,819","98,303","85,143"
+6,Tax expense (Refer Note 3),,,,,,,
+,i) Current Tax,S RBC & CO LLP,,"7,677","7,828","6,660","30,219","25,346"
+,ii) Deferred Tax,MUMBAI,,(167),296,901,747,"2,054"
+7,Net Profit for the period/year (5-6),,,"18,877","17,065","14,258","67,337","57,743"
+8,Other Comprehensive Income (net of Tax),,,,,,,
+,Items that will not be reclassified to Profit and Loss,,,,,,,
+,i) Re-measurement gains/ (losses) on defined benefit plans,,525,(120),(348),165,(791),
+,ii) Tax adjustment on above,,,(182),42,121,(57),274
+9,Total comprehensive income for the period/year (7+8)jfuj(^,"19,220","16,987","14,031","67,445","57,226",,
+10,Paid-up Equity Share Capital,no,"2,720","2,720","2,720","2,720","2,720",
+,(Face value: Re 1/- per share),,r<,,,,,
+,,,,,,,,
+11,Reserve excluding Revaluation Reserve,,,,,"149,741","124,660",
+12,Basic and Diluted Earnings per share (of Re 1/- each) (not annualised),,6.94,6.27,5.24,24.76,21.23,

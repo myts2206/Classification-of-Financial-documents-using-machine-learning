@@ -1,0 +1,43 @@
+0,1,2,3,4,5,6,7,8
+SrNo,Particulars,Standalone,Consolidated,,,,,
+3 monthsended,Preceding3 monthsended,Corresponding3 monthsended inprevious vear,Yearended,PreviousYearended,Yearended,Previousyearended,,
+31/03/2018,31/12/2017,31/03/2017,31/03/2018,31/03/2017,31/03/2018,31/03/2017,,
+Audited,Audited,Audited,Audited,Audited,Audited,Audited,,
+1,Income,,,,,,,
+,a) Revenue from operations,"2,05,526","1,53,745","1,60,665","6,30,927","5,47,688","6,30,457","5,47,688"
+,b) Other Income,"3,037",827,1.348,"9,467","5,665","9,895","5,631"
+,Total Income,"2,08,563","1,54,572","1,62.013","6,40,394","5,53,353","6,40.352","5,53,319"
+2,Expenses,,,,,,,
+,a) Cost of materials consumed,"89,544","87,193","60,522","3,23,115","2,72,483","3,23,346","2,72,612"
+,b) Purchase of stock-in-trade,"31,136","11,147","4,239","79,551","48,004","84,070","47,286"
+,"c) Changes in inventories of finished goods,","17,330","(5,259)","35,796","(4,264)","(5,943)","(10,839)","(5,967)"
+,work-in-progress and stock in trade,,,,,,,
+,d) Power and Fuel,"15,820","14,744","11,608","52,213","44,289","52,226","44,303"
+,e) Excise duty (net),-,-,"6,481","3,870","21,235","3,870","21,235"
+,f) Employee benefits expense,"11,516","12,972","12,713","50,926","51,022","51,312","51,143"
+,g) Finance Costs,"1,290","1,648","1,767","5,135","6,493","5,135","6,493"
+,h) Depreciation and amortisation expense,"2,998","3,033","2,427","11,912","10,343","11,945","10,362"
+,i) Other expenses,"17,487","16,797","17,818","68,857","67,939","69,987","68,171"
+,Total expenses,"1,87,121","1,42,275","1,53,371","5,91,315","5,15,865","5,91,052","5,15,638"
+3,Profit before tax & share of profit/(loss) of associates (1-2),"21,442","12,297","8,642","49,079","37,488",49.300,"37,681"
+4,Share in Profit of Associates,.,-,.,.,-,(8),516
+5,Profit before tax (3+4),"21,442","12,297","8,642","49,079","37,488","49,292","38,197"
+6,Tax expense/(benefit),,,,,,,
+a),Current tax (net of MAT credit entitlement),"1,758","1,914","(2,265)","6,663","3,305","6,983","3,346"
+b),Deferred tax,"4,187",413,"1,356","4,974","1,384","5,069","1,555"
+c),Excess tax provision write back,(144),"(9,987)","(9,151)","(10,131)","(9,151)","(10,131)","(9,151)"
+,Net Profit after tax & share in profit/(loss) of associates (5-,,,,,,,
+,6),"15,641","19,957","18,702","47,573","41,950","47,371","42,447"
+8,Other Comprehensive Income,,,,,,,
+a),Items that will not be reclassified to profit or loss,"(64,788)","67,995","41,149","23,945","69,095","23,945","69,095"
+b),Income tax effect on above,"9,361","(1,647)",-,"7,712","6,429","7,712","6,429"
+c),Items that will be reclassified to profit or loss,-,-,-,-,-,-,-
+d),Income tax effect on above,-,-,-,,-,-,-
+9,Total Comprehensive Income (7+8),"(39,786)","86,305","59,851","79,230","1,17,474","79,028","1,17,971"
+10,Paid-up equity share capital,"7,970","7,970","7,970","7,970","7,970","7,970","7,970"
+,(Face value of ?21-per Equity share),,,,,,,
+11,Other equity excludinq revalution reserve,-,-,-,718225,649546,722371,653925
+12,Earnings per share,,,,,,,
+,(of T 2/-each) (for the period - not annualised):,,,,,,,
+a,Basic (in 7),3.93,5.01,4.69,11.94,10.53,11.89,10.65
+b,Diluted (in T),3.93,5.01,4.69,11.94,10.53,11.89,10.65

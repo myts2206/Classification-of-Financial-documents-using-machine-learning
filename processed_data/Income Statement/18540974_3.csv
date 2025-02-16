@@ -1,0 +1,35 @@
+0,1,2,3,4,5,6
+SI.No,Particulars,Quarter Ended,Year Ended,,,
+31.03.2018,31.12.2017,31.03.2017,31.03.2018,31.03.2017,,
+,,(Audited) *,(Unaudited),(Audited) *,(Audited),(Audited)
+1,Income,,,,,
+,(a) Revenue from operations,"82,052","71,451","78,265","3,02,442","2,81,660"
+,(b) Other income,227,409,803,"1,420","2,749"
+,Total income,"82,279","71,860","79,068","3,03,862","2,84,409"
+2,Expenses(a) Cost of materials consumed,"54,946","51,259","46,130","1,86,629","1,63,365"
+,(b) Purchase of stock-in-trade,"1,565",941,"2,092","5,231","9,099"
+,"(c) Changes in inventories of finished goods, work-in-Progress and stock-in-trade","(6,038)","(9,198)","2,088","(7,759)","(2,242)"
+,(d) Employee benefits expenses,"7,666","7,615","6,998","30,022","27,830"
+,(e) Finance costs,"1,122","1,249","1,382","5,156","6,445"
+,(f) Depreciation and amortisation expenses,"3,264","3,375","3,680","13,985","14,939"
+,(g) Other expenses,"8,880","7,700","7,043","30,796","27,283"
+,Total Expenses,"71,405","62,941","69,413","2,64,060","2,46,719"
+3,Profit before exceptional items and tax (1-2),"10,874","8,919","9,655","39,802","37,690"
+4,Exceptional items,-,-,-,-,-
+5,Profit before tax (3+4),"10,874","8,919","9,655","39,802","37,690"
+6,Tax expenses,,,,,
+,a) Current tax,"2,847","2,083","1,997","10,298","7,540"
+,b) Deferred tax,717,(232),472,466,"1,468"
+7,Net Profit for the period (5-6),"7,310","7,068","7,186","29,038","28,682"
+8,Share of Profit / (Loss) of Associates,-,-,-,-,-
+9,Minority Interest,-,-,-,-,-
+10,"Net Profit after taxes, Minority interest and share ofprofit of associates (7+8+9)","7,310","7,068","7,186","29,038","28,682"
+11,Other comprehensive incomeA (i) Items that will not be reclassified to profit or loss,46,,22,46,22
+,(ii) Income tax relating to items that will not be reclassifiedto profit or loss,(16),-,(7),(16),(7)
+,B (i) Items that will be reclassified to profit or loss,-,-,-,-,_
+,(ii) Income tax relating to items that will be reclassified,,,,,
+,to profit or loss,-,-,-,-,-
+12,Total comprehensive income for the period (10+11),"7,340","7,068","7,201","29,068","28,697"
+13,Paid-up equity share capital (Face value of ?5 each),"3,695","3,695","3,695","3,695","3,695"
+14,Total Reserves i.e. Other equity,,,,"1,53,303","1,24,901"
+15,Basic and diluted Earnings per share (in ?) (Not annualisedfor quarters),9.89,9.56,9.65,39.30,38.17

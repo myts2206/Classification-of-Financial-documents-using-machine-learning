@@ -1,0 +1,39 @@
+0,1,2,3,4,5,6
+,PARTICULARS,Quarter ended,Year ended,,,
+,,31.03.2018,31.12.2017,31.03.2017,31.03.2018,31.03.2017
+,,Audited (refernote 61,Unaudited,Audited,Audited,Audited
+1,Revenue from operations (net of excise duty),"6,277","5,922","6,255","22,084","17,273"
+,Add: Excise duty,-,-,496,437,"1,525"
+,Revenue from operations (gross of excise duty),"6,277","5,922","6,751","22,521","18,798"
+2,Other income,486,281,486,"1,751","2,474"
+,Total Income,"6,763","6,203","7,237","24,272","21,272"
+3,Expenses,,,,,
+,a. Cost of materials consumed,-,-,-,-,26
+,b. Purchase of traded goods,-,-,-,-,336
+,c. Changes in inventories of finished goods & WIP,18,231,(200),498,(676)
+,d. Employee benefits expense,182,195,190,776,722
+,e. Depreciation and amortisation,459,373,532,"1,483","1,811"
+,f. Power and fuel,442,429,393,"1,653","1,060"
+,g. Mining royalty,829,702,846,"2,647","2,269"
+,h. Finance costs,45,17,14,283,202
+,i. Excise duty,-,-,496,437,"1,525"
+,j. Other expenses,"1,186","1,121","1,283","4,238","3,797"
+,Total expenses,"3,161","3,068","3,554","12,015","11,072"
+4,Profit before tax and exceptional item,"3,602","3,135","3,683","12,257","10,200"
+5,Exceptional item,(51),-,-,240,-
+6,Profit before tax,"3,551","3,135","3,683","12,497","10,200"
+,Tax Expense,,,,,
+,Current tax,758,661,821,"2,647","2,196"
+,Deferred tax,288,176,(195),574,(312)
+7,Net Profit for the period,"2,505","2,298","3,057","9,276","8,316"
+,A.(i) Items that will not be reclassified to profit or loss,12,(1),9,3,(4)
+,(ii) Income tax relating to above,(4),-,(3),(1),1
+,B.(i) Items that will be reclassified to profit or loss,234,(278),(6),(118),78
+,(ii) Income tax relatinq to above,(86),89,-,36,(20)
+8,Other Comprehensive Income,156,(190),-,(80),55
+9,Total Comprehensive Income for the period,"2,661","2,108","3,057","9,196","8,371"
+10,Paid up Equity Share Capital (face value Rs 2 each),845,845,845,845,845
+11,Reserves as shown in the Audited Balance Sheet,,,,"35,087","29,960"
+12,Earnings per share (of Rs 2 each) (not annualised exceptfor year ended March):,,,,,
+,a. Basic,5.93,5.44,7.23,21.95,19.68
+,b. Diluted,5.93,5.44,7.23,21.95,19.68

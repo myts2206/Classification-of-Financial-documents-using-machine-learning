@@ -1,0 +1,8 @@
+0,1,2,3,4,5
+Name of theStatute,Nature ofDues,Amount(Rs).,Period towhich theamountrelates,Due date ofpayment,
+"IGST Act,2017",IGST,"11,45,012",F.Y. 2017-18,Augustonwards,17
+"CGST Act,2017",CGST,"6,75,238",F.Y. 2017-18,Augustonwards,17
+"TamilnaduGST Act,2017",SGST,"30,921",F.Y. 2017-18,Augustonwards,17
+"MaharastraGST Act,2017",SGST,"3,57,033",F.Y. 2017-18,Augustonwards,17
+"Delhi GSTAct, 2017",SGST,"2,27,737",F.Y. 2017-18,Augustonwards,17
+Total,"24,29,941",,,,

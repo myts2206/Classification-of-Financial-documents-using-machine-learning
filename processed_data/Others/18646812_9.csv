@@ -1,0 +1,37 @@
+0,1,2,3,4,5,6,7
+S.No.,ISIN No.,Date ofAllotment,Last Interestpayment date,Next Interestpayment date,Last Date ofPrinicipalPayment,Next Date ofPrincipalPayment,PrincipalAmount
+,,,,,,,
+A,Secured Debentures,,,,,,
+1,INE511C07573,10-Jan-17,10-Jan-18,10-Jan-19,-,07-Jan-22,5.00
+2,INE511C07581,13-Feb-17,13-Feb-18,13-Feb-19,-,13-Feb-24,50.00
+3,INE511C07599,06-Apr-17,-,06-Apr-18,-,06-Apr-24,50.00
+4,INE511C07607,18-Aug-17,-,18-Aug-18,-,19-Aug-19,60.00
+5,INE511C07615,24-Aug-17,-,26-Feb-18,-,26-Feb-19,50.00
+6,INE511C07623,27-Mar-18,-,27-Mar-19,-,26-Mar-21,30.00
+,,,,,,,
+,Sub Total (A),,,,,,245.00
+,,,,,,,
+B,Subordinated Debentures,,,,,,
+1,INE511C08746,09-Dec-ll,09-Dec-17,09-Jun-18,-,09-Dec-18,125.00
+2,INE511C08787,30-Mar-12,30-Mar-18,30-Mar-19,-,30-Mar-19,25.30
+3,INE511C08803,06-Sep-12,06-Sep-17,06-Sep-18,-,06-Sep-22,25.00
+4,INE511C08811,06-Sep-12,06-Sep-17,06-Sep-18,-,06-Jun-18,60.00
+5,INE511C08829,17-Jan-13,17-Jan-18,17-Jan-19,-,17-Jan-23,10.00
+6,INE511C08837,17-Jan-13,17-Jan-18,17-Jan-19,-,17-Jan-20,15.00
+7,INE511C08845,11-Mar-13,11-Mar-18,ll-Mar-19,-,ll-Mar-20,55.00
+8,INE511C08852,19-Mar-13,19-Mar-18,19-Mar-19,-,19-Mar-20,60.00
+9,INE511C08860,23-Apr-13,23-Apr-17,23-Apr-i8,-,21-Apr-23,48.00
+10,INE511C08886,26-Sep-13,26-Sep-17,26-Sep-18,-,26-Sep-23,14.00
+11,INE511C08902,28-Mar-14,28-Mar-18,28-Mar-19,-,28-Apr-21,15.00
+12,INE511C08910,30-Jun-14,02-Jan-18,02-Jul-18,-,30-Jun-2l,215.00
+,Sub Total (B),,,,,,667.30
+,,,,,,,
+C,Perpetual Debt Instruments,,,,,,
+1,INE511C08498,24-Mar-10,24-Mar-18,24-Sep-18,-,Call Option atthe end of 10year from DOA,10.00
+2,INE511C08506,29-Mar-10,29-Mar-18,29-Sep-18,-,20.00,
+3,INE511C08704,09-Dec-10,09-Dec-17,09-Jun-18,-,10.00,
+4,INE511C08712,07-Jan-ll,07-Jan-18,07-Jul-18,-,15.00,
+5,INE511C08878,20-May-13,20-May-17,20-May-18,-,25.50,
+6,INE511C08894,26-Sep-13,26-Sep-17,26-Sep-18,-,25.00,
+,Sub Total (C),,,,,,105.50
+,Total (A+B+C),,,,,,"1,017.80"

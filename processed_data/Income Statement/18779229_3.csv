@@ -1,0 +1,41 @@
+0,1,2,3,4,5,6
+,,Quarter Ended,Year Ended,,,
+SI.No.,Particulars,31.03.2018,31.12.2017,31.03.2017,31.03.2018,31.03.2017
+,,(Audited),(Unaudited),(Audited),(Audited),(Audited)
+1.,Revenue from Operations,2283.97,2123.24,"2,309.48",8397.29,"8,317.85"
+II.,Other Income,113.14,12.16,46.85,146.12,65.43
+III.,Total Income (l+ll),2397.11,2135.40,"2,356.33",8543.41,"8,383.28"
+IV.,ExpensesCost of Materials Consumed,1420.08,1271.59,"1,251.00",5246.65,"4,451.40"
+,Purchases of Stock-in-trade,32.78,8.86,21.74,90.94,83.90
+,"(Increase) / Decrease in Inventories of Finished Goods, Work-in-progress andStock-in-trade",(94.25),78.45,163.52,(87.86),(192.24)
+,Employee Benefits Expense,215.53,186.79,195.78,818.06,854.30
+,Finance Costs,115.02,114.99,113.52,465.50,440.36
+,Depreciation and Amortisation Expense,76.87,76.80,72.05,299.45,291.32
+,Excise Duty on Sales,-,-,156.99,125.19,628.48
+,Other Expenses,380.51,364.65,320.40,1467.25,"1,359.60"
+,Total Expenses,2146.54,2102.13,"2,295.00",8425.18,"7,917.12"
+V.,Profit / (Loss) before Exceptional Items and Tax (lll-IV),250.57,33.27,61.33,118.23,466.16
+VI.,Exceptional Items,(0.49),(10.20),49.92,(11.42),69.08
+VII.,Profit / (Loss) before Tax (V+VI),250.08,23.07,111.25,106.81,535.24
+VIII.,Tax Expense(1) Current Tax,27.24,1.48,34.72,18.64,140.62
+,(2) Mat Credit Entitlement,(18.44),-,(49.61),(18.44),(73.87)
+,(3) Deferred Tax,81.51,11.62,34.11,43.69,88.67
+IX.,Profit / (Loss) after Tax (VII-VIII),159.77,9.97,92.03,62.92,379.82
+X.,Share in Profit / (Loss) of Associates,(0.90),1.35,(2.55),0.40,1.24
+XI.,Profit / (Loss) for the period (IX+X),158.87,11.32,89.48,63.32,381.06
+XII.,Profit / (Loss) for the period attributable to:Owners of the Parent,145.37,10.97,88.80,66.04,375.40
+,Non-controlling Interest,13.50,0.35,0.68,(2.72),5.66
+XIII.,Other Comprehensive Income,,,,,
+(A),Items that will not be Reclassified to Profit or LossRe-measurement losses on Defined Benefit Plans,(0.20),(3.95),(13.28),(12.20),(24.18)
+,Income Tax Relating to Items that will not be Reclassified to Profit or Loss,(0.08),1.37,4.39,4.08,8.16
+(B),Items that will be Reclassified to Profit or Loss,,,,,
+,Exchange Differences on Translating the Financial Statements of ForeignOperations,3.57,(7.14),0.37,(0.57),018
+,Total Other Comprehensive Income for the period,3.29,(9.72),(8.52),(8.69),(15.84)
+XIV.,Total Comprehensive Income for the period (XH-XIII),162.16,1.60,80.96,54.63,365.22
+XV.,Other Comprehensive Income for the period attributable to:Owners of the Parent,3.08,(9.56),(7.86),(8.41),(15.18)
+,Non-controlling Interest,0.21,(0.16),(0.66),(0.28),(0.66)
+XVI.,Total Comprehensive Income for the period attributable to:Owners of the Parent,148.45,1.41,80.94,57.63,360.22
+,Non-controlling Interest,13.71,0.19,0.02,(3.00),5.00
+XVII.,Paid-up Equity Share Capital(Face Value: ^21-per share),45.36,45.36,45.36,45.36,45.36
+XVIII.,Other Equity excluding Revaluation Reserve,,,,1915.74,"1,919.42"
+XIX.,Earnings per equity share of ^ 2 eachBasic / Diluted (^),6.41,0.48,3.91,2.91,16.55

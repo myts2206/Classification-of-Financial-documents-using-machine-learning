@@ -1,0 +1,32 @@
+0,1,2,3,4,5
+Particulars,Quarter Ended,,,,
+Mar-18,Dec-17,Sep-17,Jun-17,Mar-17,
+Total revenues,773,793,809,753,752
+Access charges,85,95,101,102,103
+Cost of goods sold,25,24,28,22,21
+Net revenues,662,675,680,629,628
+"Operating Expenses (Exci Access Charges,cost of goods sold & License Fee)",344,354,377,373,391
+Licence Fee,46,42,46,49,46
+ffilTDA,278,281,261,211,195
+ffirr,174,171,129,78,59
+Rofit before Tax,175,118,84,111,41
+Profit after Tax (before exceptional items),134,92,51,53,(0)
+Non Controlling interest,26,16,3,0,(6)
+Net income (before exceptional items),108,76,48,52,6
+Capex,250,75,50,49,135
+Operating Free Cash Flow (EBITDA - Capex),28,206,212,162,60
+Cumulative investments,"8,741","8,629","9,218","9,126","8,922"
+,,,,,
+,Mar-18,Dec-17,Sep-17,Jun-17,Mar-17
+As a%of Total revenues,,,,,
+Access charges,11.0%,11.9%,12.5%,13.5%,13.7%
+Cost of goods sold,3.3%,3.0%,3.4%,2.9%,2.8%
+Net revenues,85.7%,85.0%,84.1%,83.5%,83.5%
+"Operating Expenses (excluding accesscharges, cost of goods sold & license fee)",44.5%,44.6%,46.6%,49.5%,51.9%
+Licence Fee,6.0%,5.3%,5.7%,6.6%,6.1%
+ffirTDA,36.0%,35.5%,32.3%,28.1%,25.9%
+ffirr,22.5%,21.6%,16.0%,10.4%,7.8%
+Rofit before Tax,22.7%,14.9%,10.3%,14.8%,5.4%
+Rofit after Tax (before exceptional items),17.3%,11.5%,6.3%,7.0%,0.0%
+Non Controlling interest,3.3%,2.0%,0.4%,0.1%,-0.8%
+Net income (before exceptional items),14.0%,9.5%,5.9%,6.9%,0.8%

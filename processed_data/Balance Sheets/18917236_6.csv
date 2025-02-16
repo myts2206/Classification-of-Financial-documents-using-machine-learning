@@ -1,0 +1,49 @@
+0,1,2,3
+SI.,PARTICULARS,As at,As at
+No.,31.03.2018,31.03.2017,
+,,(Audited),(Audited)
+,ASSETS,,
+1,Non-current assets,,
+,"Property, plant and equipment","473,656","408,305"
+,Capital work-in-progress,"139,954","123,736"
+,Goodwill,"81,654","40,630"
+,Other intangible assets,"96,757","34,443"
+,Intangible assets under developmentFinancial assets,"18,350","22,072"
+,Investments,"31,151","24,585"
+,Loans,544,570
+,Other financial assets,"8,746","7,517"
+,Non current tax assets (net),"8,259","5,798"
+,Deferred tax assets (net),"15,880","16,776"
+,Other non-current assets,"16,783","19,892"
+,Non-Current assets,"891,734","704,324"
+2,Current assetsInventoriesFinancial assets,"585,842","433,054"
+,Investments,2,2
+,Trade receivables,"308,436","276,533"
+,Cash and cash equivalents,"121,590","48,944"
+,Bank balances other than above,"4,572","2,404"
+,Loans,"1,019","1,089"
+,Other financial assets,"79,420","75,765"
+,Current tax assets (net),"6,455","1,751"
+,Other current assets,"111,449","81,076"
+,Current assets,"1,218,785","920,618"
+,TOTAL ASSETS,"2,110,519","1,624,942"
+,EQUITY AND LIABILITIES,,
+1,EquityEquity share capital,"5,859","5,859"
+,Other equity,"1,162,183","931,332"
+,Non-controlling interest,182,208
+,Equity,"1,168,224","937,399"
+,Liabilities,,
+2,Non-current liabilitiesFinancial liabilities,,
+,Borrowings,"45,120","18,140"
+,Provisions,"5,586","3,913"
+,Deferred tax liability (net),"23,528","4,930"
+,Non-current liabilities,"74,234","26,983"
+3,Current liabilitiesFinancial liabilities,,
+,Borrowings,"403,134","290,272"
+,Trade payables,"262,743","215,470"
+,Other financial liabilities,"51,000","46,938"
+,Other current liabilities,"126,780","81,743"
+,Provisions,"20,093","23,491"
+,Current tax liabilities,"4,311","2,646"
+,Current liabilities,"668,061","660,560"
+,TOTAL EQUITY AND LIABILITIES,"2,110,519","1,624,942"

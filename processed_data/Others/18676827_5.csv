@@ -1,0 +1,43 @@
+0,1,2,3,4,5,6
+S.N.,Particulars,_Quarter Ended_,Year Ended,,,
+,,31-Mar-18,31-Dec-17,31-Mar-17,31-Mar-18,31-Mar-17
+,,(Audited),(Unaudited),(Audited)*,(Audited),(Audited)*
+1,Segment Revenue,,,,,
+,a) Switchgears,394.63,344.27,391.28,1424.45,1467.68
+,b) Cable,768.86,625.64,760.14,2683.41,2675.61
+,c) Lighting & Fixtures,322.69,287.10,283.08,1168.70,1022.80
+,d) Electrical Consumer Durables,464.62,415.77,397.01,1569.57,1419.87
+,e) Lloyd Consumer,584.10,292.99,-,1414.14,-
+,Total,2534.90,1965.77,1831.51,8260.27,6585.96
+,Less : Inter Segment Revenue,-,-,-,,-
+,Revenue from Operations,2534.90,1965.77,1831.51,8260.27,6585.96
+2,Segment Results(Profit(+)/ Loss(-) before Tax and finance cost from each Segment),,,,,
+,a) Switchgears,152.28,137.96,144.06,557.20,561.03
+,b) Cable,131.78,107.03,87.50,438.03,325.63
+,c) Lighting & Fixtures,99.78,81.80,73.08,335.63,265.06
+,d) Electrical Consumer Durables,126.16,122.97,95.12,420.15,349.37
+,e) Lloyd Consumer,128.31,47.98,-,268.32,-
+,Total,638.31,497.74,399.76,2019.33,1501.09
+,Less : (i) Finance cost,8.36,5.49,7 10,23 97,12.15
+,(ii) Other un-allocable expenses,289 59,244.07,158 99,992.57,662.30
+,net of un-allocable income,,,,,
+,(iii) Exceptional items (Profit)/ Loss,9.07,(20.98),76.76,(11.91),57.81
+,Total Profit before tax,331.29,269.16,156.91,1014.70,768.83
+3,Segment Assets,,,,,
+,a) Switchgears,640.28,649.88,624.06,640.28,624 06
+,b) Cable,757.94,742.49,748.64,757.94,748.64
+,c) Lighting & Fixtures,491.58,509.40,446.60,491.58,446.60
+,d) Electrical Consumer Durables,505.54,501.75,488.15,505.54,488.15
+,e) Lloyd Consumer,2195.26,2226.66,-,2195.26,-
+,,4590.60,4630.18,2307.45,4590.60,2307 45
+,f) Unallocated,1950.81,1216.52,2652.54,1950.81,2652.54
+,Total,6541.41,5846.70,4959.99,6541.41,4959.99
+4,Segment Liabilities,,,,,
+,a) Switchgears,307.51,239.32,25268,307.51,252.68
+,b) Cable,529.05,324 17,254.05,529.05,254 05
+,c) Lighting & Fixtures,240.75,206.11,212.94,240.75,212.94
+,d) Electrical Consumer Durables,385.01,331.51,275.09,385.01,275.09
+,e) Lloyd Consumer,646.82,529.17,-,646.82,-
+,,2109.14,1630.28,994.76,2109.14,994.76
+,f) Unallocated,693.12,709.02,691.65,693.12,691.65
+,Total,2802.26,2339.30,1686.41,2802.26,1686.41

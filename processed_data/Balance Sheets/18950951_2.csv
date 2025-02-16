@@ -1,0 +1,42 @@
+0,1,2,3
+SI No,Particulars,As at31st Mar 2018,As at31st Mar 2017
+(1),(2),(3),(4)
+,ASSETS,,
+(1),NON-CURRENT ASSETS,,
+(a),"Property, Plant and Equipment",332.00,354.25
+(b),Capital Work In Progress,659.55,278.61
+(c),Financial Assets,,
+,(i) Others,0.01,2.66
+(d),Deferred Tax Assets (net),55.78,51.58
+(e),Other Non-Current Assets,573.04,511.37
+(0,Non current assets classified as held for sale,"""",-
+(2),CURRENT ASSETS,,
+(a),Inventories,788.61,821.87
+(b),Financial Assets,,
+,(i) Investments,0.08,-
+,(ii) Trade receivables ',81.57,165.07
+,(iii) Cash and cash equivalents,8.80,1.21
+,(iv) Bank Balances other than above,3.92,53.81
+,(v) Others,134.43,143.41
+(c),Current tax Assets,97.69,84.75
+(d),Other current assets,139.86,41.09
+,TOTAL ASSETS,2875.34,2509.68
+,EQUITY AND LIABILITIES,,
+(D,EQUITY,,
+(a),Equity Share Capital,462.61,462.61
+(b),Other Equity,1064.68,1004.35
+,LIABILITIES,,
+(1),NON-CURRENT LIABILITIES,,
+(a),Financial Liabilities,,
+,(i) Borrowings,152.91,204.98
+,(ii) Other financial liabilities,9.24,10.36
+(b),Provisions,81.87,79.29
+(2),CURRENT LIABILITIES,,
+(a),Financial Liabilities,,
+,(i) Borrowings,504.05,267.09
+,(ii) Trade Payables,226.13,156.56
+,(iii)Others,56.09,46.49
+(b),Other current liabilities,171.51,162.87
+(c),Provisions,52.38,67.47
+(d),Current tax liabilities,93.87,47.61
+,TOTAL EQUITY & LIABILITIES,2875.34,2509.68

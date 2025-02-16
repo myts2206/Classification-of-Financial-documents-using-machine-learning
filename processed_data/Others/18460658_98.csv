@@ -1,0 +1,22 @@
+0,1
+Company Related,
+3G,Third Generation of Mobile Telephony.
+4G,Fourth Generation of Mobile Telephony.
+Asset T urnover,"Asset Turnover is defined as total revenues, for the preceding (last) 12 months from the end of therelevant period, divided by average assets. Asset is defined as the sum of non-current assets and netcurrent assets. Net current assets are computed by subtracting current liabilities from current assets.Average assets are calculated by considering average of quarterly average for the preceding (last) fourquarters from the end of the relevant period."
+Average Customers,Average customers are derived by computing the average of the monthly average customers for therelevant period.
+Average Co-locations,Average co-locations are derived by computing the average of the Opening and Closing co-locations forthe relevant period.
+Average Sharing Factor,It is calculated as the average of the opening and closing number of co-locations divided by the averageof the opening and closing number of towers for the relevant period.
+Average Towers,Average towers are derived by computing the average of the Opening and Closing towers for the relevantperiod
+Bn,Billion
+Book Value Per EquityShare,Total stockholder’s equity as at the end of the relevant period divided by outstanding equity shares as atthe end of the relevant period.
+Capex,It includes investment in gross fixed assets and capital work in progress for the period.
+Capital Employed,Capital Employed is defined as sum of equity attributable to equity holders of parent and net debt.
+Cumulative Investments,"Cumulative Investments comprises of gross value of property, plant & equipment (including CWIP &capital advances) and intangibles including investment in associates."
+Cash Profit FromOperations beforeDerivative & ExchangeFluctuation,"It is not an Ind-AS measure and is defined as profit from operating activities before depreciation,amortization and exceptional items adjusted for interest expense, interest income and non-operatingexpenses before adjusting for derivative & exchange (gain)/ loss."
+Churn,Churn is calculated by dividing the total number of disconnections during the relevant period by theaverage customers; and dividing the result by the number of months in the relevant period.
+Co-locations,"Co-location is the total number of sharing operators at a tower, and where there is a single operator at atower, ‘co-location’ refers to that single operator. Co-locations as referred to are revenue generating Co-locations."
+Customer Base,Customer who made at least one revenue generating call or a data session of more than zero Kbs on 2G/ 3G / 4G network in the last 30 days.
+Customers PerEmployee,Number of customers on networks of a business unit as at end of the relevant period divided by numberof employees in the respective business unit as at end of the relevant period.
+Data Customer Base,A customer who used at least 1 MB on GPRS / 3G / 4G network in the last 30 days.
+Data Usage perCustomer,It is calculated by dividing the total MBs consumed on the network during the relevant period by theaverage data customer base; and dividing the result by the number of months in the relevant period.
+DTH/Digital TV,Direct to Home broadcast service

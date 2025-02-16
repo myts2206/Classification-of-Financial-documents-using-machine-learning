@@ -1,0 +1,13 @@
+0,1,2,3,4,5,6,7,8
+Particulars,FreeholdLand,Buildings,Plant andMachinery,Furniture andÂ Fixtures,Vehicles,OfficeEquipments,LeaseholdImprovements,Total
+COST,,,,,,,,
+"At January 1, 2017",0.15,"2,251.90","1,670.82",513.13,22.91,815.53,4.97,"5,279.41"
+Additions,-,482.59,283.77,112.09,4.96,372.34,-,"1,255.75"
+Disposals,-,-,(76.51),(0.39),(10.02),(2.66),-,(89.58)
+"At December 31, 2017",0.15,"2,734.49","1,878.08",624.83,17.85,"1,185.21",4.97,"6,445.58"
+"ACCUMULATEDDEPRECIATIONAt January 1, 2017",,264.26,"1,316.97",414.43,18.57,681.70,4.09,"2,700.02"
+Charge for the year,-,46.73,206.98,39.94,1.75,125.23,0.83,421.46
+Disposals,-,-,(76.47),(0.39),(10.02),(2.63),-,(89.51)
+"At December 31, 2017",-,310.99,"1,447.48",453.98,10.30,804.30,4.92,"3,031.97"
+NET CARRYINGAMOUNT,,,,,,,,
+"At December 31, 2017",0.15,"2,423.50",430.60,170.85,7.55,380.91,0.05,"3,413.61"

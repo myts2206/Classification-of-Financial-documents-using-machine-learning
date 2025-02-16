@@ -1,0 +1,30 @@
+0,1,2,3,4,5
+,Quarter Ended,Year Ended,,,
+,31.03.2018,31.12.2017,31.03.2017,31.03.2018,31.03.2017
+PARTICULARS,AUDITED,UNAUDITED,UNAUDITED,AUDITED,AUDITED
+,(Note 2),,(Note 2),,
+Revenue from Operations (Note 3),"3,002","4,797","2,380","27,490","29,484"
+Other Income,63,29,154,388,701
+Total Income,"3,065","4,826","2,534","27,878","30,185"
+ExpensesCost of Materials Consumed,"1,782","2,866","2,583","12,250","15,892"
+Purchases of Stock-in-Trade,153,374,318,"3,106","1,614"
+"Changes in Inventories of Finished Goods,Work-in-Progress and Stock-in-Trade",(221),(397),"(1,582)",650,"(1,045)"
+Excise Duty,-,-,227,391,"1,456"
+Employee Benefits Expense,689,645,668,"2,639","2,459"
+Finance Costs,22,52,15,113,69
+Depreciation and Amortisation Expense,88,84,81,331,289
+Other Expenses,762,"1,083",747,"4,360","4,972"
+Total Expenses,"3,275","4,707","3,057","23,840","25,706"
+(Loss)/ Profit Before TaxTax Expense/ (Credit),(210),119,(523),"4,038","4,479"
+- Current Tax (Note 4),(101),40,(185),946,"1,516"
+- Deferred Tax,20,(28),23,91,53
+Total Tax Expense,(81),12,(162),"1,037","1,569"
+(Loss)/ Profit for the period/ year,(129),107,(361),"3,001","2,910"
+Other Comprehensive Income,,,,,
+Items that will not be reclassified to profit or loss:- Remeasurement of defined benefit obligation,24,(26),30,(20),(21)
+- Tax on remeasurement of defined benefit obligation,(8),9,(10),7,7
+Total Other Comprehensive Income,16,(17),20,(13),(14)
+Total Comprehensive Income for the period/ year,(113),90,(341),"2,988","2,896"
+Paid-up Equity Share Capital (Face Value ^ 10/-) (Note 7),343,343,354,343,354
+Reserve excluding Revaluation Reserves as per balance sheet of previousaccounting year,,,,"17,440","20,213"
+Earnings per share (basic and diluted) (not annualised) (in ?),(3.76),3.12,(10.21),86.16,82.31

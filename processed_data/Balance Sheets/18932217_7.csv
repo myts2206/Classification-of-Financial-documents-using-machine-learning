@@ -1,0 +1,43 @@
+0,1,2,3,4,5,6
+,Standalone,,Consolidated,,,
+,Ind AS,Ind AS,Ind AS,Ind AS,IFRS,IFRS
+,As at,As at,As at,As at,As at,As at
+,31.03.2018,31.03.2017,31.03.2018,31.03.2017,31.03.2018,31.03.2017
+,Audited,Audited,Audited,Audited,Audited,Audited
+"ASSETSNon current assetsProperty, plant and equipment","15,766.49","14,704.96","18,958.10","17,836.97","21,733.74","20,681.23"
+Capital work-in-progress,"3,540.42","2,351.35","9,933.40","6,295.50","10,347.15","6,770.25"
+Goodwill,-,-,521.04,478.92,521.04,478.92
+Other intangible assets,"1,224.73","1,258.74","10,816.38","9,235.01","13,296.47","12,070.19"
+Intangible assets under development,656.33,355.24,"1,285.32",785.62,"1,285.32",785.62
+Financial assets(i) Investments,"32,126.84","18,666.99",146.61,156.94,146.61,156.94
+(ii) Loans and advances,"33,028.48","36,426.84",-,-,-,-
+(iii) Other financial assets,380.91,344.70,401.18,362.84,401.18,362.84
+Deferred tax assets (net),"6,606.15","5,940.64","13,202.60","13,112.69","12,201.76","11,914.28"
+Other non-current assets,565.85,447.70,802.23,627.79,389.36,153.05
+Total non- current assets,"93,896.20","80,497.16","56,066.86","48,892.28","60,322.63","53,373.32"
+Current assetsInventories,"11,111.80","11,450.55","20,305.85","21,390.50","20,305.85","21,390.50"
+Financial assets(i) Investments,,,,,.,.
+(ii) Trade receivables,"38,289.08","38,794.04","23,318.07","24,043.20","23,318.07","24,043.20"
+(iii) Cash and cash equivalents,"1,773.82","2,521.78","12,346.91","10,576.59","12,346.91","10,576.59"
+(iii) Other financial assets,"1,937.10","1,836.15","3,856.42","3,581.21","3,856.42","3,581.21"
+Current tax assets,,-,-,-,-,-
+Other current assets,"5,640.71","4,905.78","10,059.67","9,154.89","10,059.67","9,154.89"
+Total current assets,"58,752.51","59,508.30","69,886.92","68,746.39","69,886.92","68,746.39"
+Total assets,"152,648.71","140,005.46","125,953.78","117,638.67","130,209.55","122,119.71"
+EQUITY AND LIABILITIESEquityEquity share capital,282.17,282.17,282.17,282.17,282.17,282.17
+Other equity,"103,632.24","94,084.02","51,352.60","44,643.08","55,608.37","49,112.11"
+Minority interest,-,-,(3.70),(4.23),(3.70),(4.23)
+LiabilitiesNon-current liabilitiesFinancial liabilities(i) Borrowings,"26,860.29","25,893.46","41,417.78","45,363.39","41,417.78","45,363.39"
+(ii) Other financial liabilities,26.00,24.05,26.00,24.05,26.00,24.05
+Deferred tax liabilities (net),-,-,-,-,-,-
+Other non- current liabilities,-,-,-,303.38,-,303.38
+Total non-current liabilities,"26,886.29","25,917.51","41,443.78","45,690.82","41,443.78","45,690.82"
+Current liabilitiesFinancial liabilities(i) Borrowings,"2,950.44","1,871.89","2,950.44","1,871.89","2,950.44","1,871.89"
+(ii) Other financial liabilities,"1,137.36","1,358.42","3,326.27","1,763.94","3,326.27","1,763.94"
+(iii) Trade payables,"15,549.53","14,670.90","18,697.84","17,432.21","18,697.84","17,432.31"
+Other current liabilities,"1,278.69","1,240.90","3,579.74","3,329.30","3,579.74","3,329.30"
+Provisions,783.58,413.74,"4,040.38","2,372.94","4,040.38","2,372.94"
+Current tax liabilities (Net),148.41,165.91,284.26,256.55,284.26,268.46
+Total current liabilities,"21,848.01","19,721.76","32,878.93","27,026.83","32,878.93","27,038.84"
+Total liabilities,"48,734.30","45,639.27","74,322.71","72,717.65","74,322.71","72,729.66"
+Total equity and liabilities,"152,648.71","140,005.46","125,953.78","117,638.67","130,209.55","122,119.71"

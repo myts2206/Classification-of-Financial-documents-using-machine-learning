@@ -1,0 +1,9 @@
+0,1,2,3,4
+Project,Capacity(MW),Fuel,Co nfiguratio n S tatus,
+Tamnar 1*,"1,000",Coal,4x250 MW Operational,
+Tamnar2,"2,400",Coal,4x600 MW Operational,
+Captive power projects (within JSPL),,,,
+Project,Capacity(MW),Fuel,Configuration,Status
+"DCPP, Raigarh",540,Coal,4x135 MW,Operational
+"JS PL, Raigarh",284,Coal&wasteheat,1x24 MW(Waste heat)2x55 MW6x25 MW,Operational
+"Angul,Odisha",810,Coal,6x135 MW,Operational

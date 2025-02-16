@@ -1,0 +1,23 @@
+0,1,2,3,4,5,6
+Sr.,Particulars,Quarter ended,,Year ended,,
+No.,,31-03-2018(Audited),31-12-2017(Unaudited),31-03-2017(Audited),31-03-2018(Audited),31-03-2017(Audited)
+1,Segment revenueManufacturing,321,368,345,1340,977
+,Investments,317,339,328,6903,2052
+,Total,638,707,673,8243,3029
+2,Segment profit before tax and finance costsManufacturing,(209),(265),(158),(767),(617)
+,Investments,316,339,328,6901,2051
+,Total,107,74,170,6134,1434
+,Less: Finance costs,-,,.,.,_
+,Total profit before tax,107,74,170,6134,1434
+3,Capital employedSegment assetsManufacturing,2403,2446,1544,2403,1544
+,Investments,820727,868438,654623,820727,654623
+,Unallocable,1181,1133,1065,1181,1065
+,Sub-total *,824311,872017,657232,824311,657232
+,Segment liabilitiesManufacturing,1736,2073,1957,1736,1957
+,Investments,48,3,26,48,26
+,Unallocable,-,-,-,-,*
+,Sub-total,1784,2076,1983,1784,1983
+,Capital employedManufacturing,667,373,(413),667,(413)
+,Investments,820727,868438,654623,820727,654623
+,Unallocable,1133,1130,1039,1133,1039
+,Total,822527,869941,655249,822527,655249

@@ -1,0 +1,25 @@
+0,1,2,3,4,5,6
+,Particulars,Quarter ended,Year ended,,,
+,,31stMar'18,31stDec'17,31stMar*17,31stMar’18,3181Mar’17
+1,Income,,,,,
+,Value of sales and services,"26,855","22,782","20,299","83,534","66,681"
+,Goods and Services Tax included in above,"4,049","3,164",-,"9,989",-
+,Revenue from operations,"22,806","19,618","20,299","73,545","66,681"
+,Other income,793,750,"1,581","2,960","3,725"
+,Total Income,"23,599","20,368","21,880","76,505","70,406"
+2,"ExpensesMarketing, distribution and promotional expense","3,774","1,624","2,108","9,375","9,336"
+,Employee benefits expense,"5,771","5,776","4,706",23.578,"19,582"
+,Finance costs,640,528,411,"1,906","1,868"
+,Depreciation and amortisation expense,479,466,631,"1,863","1,783"
+,Other expenses,"8,286","6,619","7,227","24,914","25,580"
+,Total Expenses,"18,950","15,013","15,083","61,636","58,149"
+3,Profit before tax (1 - 2),"4,649","5,355","6,797","14,869","12,257"
+4,Tax Expense,,,,,
+,Current tax,"1,847","1,810","1,552","5,232",2.111
+5,Profit for the period (3 - 4),"2,802","3,545","5,245","9,637","10,146"
+6,Other Comprehensive IncomeItems that will not be reclassified to profit or loss,(51),117,149,(91),(193)
+7,Total Comprehensive Income for the period,"2,751","3,662","5,394",9.546,9.953
+,(5+6),,,,,
+8,Earnings per equity share (Face value of ? 2 each)Basic and Diluted (in ?),0.16,0.21,0.31,0.56,0.59
+9,Paid-up equity share capital. Equity Shares of ? 2each,"34,287","34,287","34,287","34,287","34,287"
+10,Other Equity excluding revaluation reserve,,,,"3,44,974","3,35,427"

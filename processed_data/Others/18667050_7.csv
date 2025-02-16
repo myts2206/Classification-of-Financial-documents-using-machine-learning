@@ -1,0 +1,16 @@
+0,1,2,3,4,5
+,Quarter Ended,Year Ended,,,
+Audited,Unaudited,Audited,Audited,Audited,
+31.03.2018,31.12.2017,31.03.2017,31.03.2018,31.03.2017,
+Revenue from operations,,,,,
+a) Paints,"4,394.66","4,182.75","4,284.07","16,927.18","16,548.65"
+b) Home Improvement,97.64,84.74,88.12,335.05,307.90
+Total (A),"4,492.30","4,267.49","4,372.19","17,262.23","16,856.55"
+Excise duty on sale,,,,,
+a) Paints,-,-,429.26,413.84,"1,665.02"
+b) Home Improvement,-,-,6.21,4.63,23.35
+Total(B),-,-,435.47,418.47,"1,688.37"
+Revenue from operationsexcluding excise duty on sale,,,,,
+a) Paints,"4,394.66","4,182.75","3,854.81","16,513.34","14,883.63"
+b) Home Improvement,97.64,84.74,81.91,330.42,284.55
+Total (A-B),"4,492.30","4,267.49","3,936.72","16,843.76","15,168.18"

@@ -1,0 +1,14 @@
+0,1,2,3,4,5,6,7,8
+Particulars,FreeholdLand,Buildings,Plant andMachinery,FurnitureandFixtures,Vehicles,OfficeEquipments,LeaseholdImprovements,Total
+COST,,,,,,,,
+"At January 1, 2016",0.15,"2,250.89","1,574.19",508.94,24.64,784.39,4.97,"5,148.17"
+Additions,-,1.01,133.58,4.61,0.17,33.62,-,172.99
+Disposals,-,-,(36.95),(0.42),(1.90),(2.48),-,(41.75)
+"At December 31, 2016",0.15,"2,251.90","1,670.82",513.13,22.91,815.53,4.97,"5,279.41"
+"ACCUMULATEDDEPRECIATIONAt January 1, 2016",,223.72,"1,169.28",380.32,17.45,595.12,3.10,"2,388.99"
+Charge for the year,-,40.54,184.45,34.52,2.80,88.90,0.99,352.20
+Disposals,-,-,(36.76),(0.41),(1.68),(2.32),-,(41.17)
+"At December 31, 2016",-,264.26,"1,316.97",414.43,18.57,681.70,4.09,"2,700.02"
+NET CARRYINGAMOUNT,,,,,,,,
+"At December 31, 2016",0.15,"1,987.64",353.85,98.70,4.34,133.83,0.88,"2,579.39"
+"At January 1, 2016 (deemed cost referÂ note 3.1 ( c ))",0.15,"2,027.17",404.91,128.62,7.19,189.27,1.87,"2,759.18"

@@ -1,0 +1,42 @@
+0,1,2,3
+SI.No.,PARTICULARS,As at31.03.2018,As at31.03.2017
+,,(Audited),(Audited)
+,ASSETS,,
+1,Non-current assets,,
+,"Property, plant and equipment","339,297","321,162"
+,Capital work-in-progress,"110,023","87,831"
+,Intangible assets under developmentFinancial assets,"4,375","2,867"
+,Investments,"196,748","168,193"
+,Loans,"1,326","4,636"
+,Other financial assets,"9,641","8,075"
+,Non current tax assets (net),"8,260","5,795"
+,Deferred tax assets (net),,8
+,Other non-current assets,"11,594","13,390"
+,Non-Current assets,"681,264","611,957"
+2,Current assetsInventoriesFinancial assets,"340,923","243,362"
+,Investments,2,2
+,Trade receivables,"447,744","377,363"
+,Cash and cash equivalents,"24,590","3,363"
+,Loans,976,"1,025"
+,Other financial assets,309,"1,658"
+,Other current assets,"83,992","63,561"
+,Current assets,"898,536","690,334"
+,TOTAL - ASSETS,"1,579,800","1,302,291"
+,EQUITY AND LIABILITIES,,
+1,EquityEquity share capital,"5,859","5,859"
+,Other equity,"992,399","837,759"
+,Equity,"998,258","843,618"
+,Liabilities,,
+2,Non-current liabilitiesFinancial liabilities,,
+,Borrowings,,"11,890"
+,Provisions,"3,360","2,086"
+,Deferred tax liabiliy (net),"2,348",-
+,Non-current liabilities,"5,708","13,976"
+S,Current liabilitiesFinancial liabilities,,
+,Borrowings,"365,383","275,127"
+,Trade payables,"163,340","121,760"
+,Other financial liabilities,"25,265","33,646"
+,Other current liabilities,"14,392","8,014"
+,Provisions,"7,454","6,150"
+,Current liabilities,"575,834","444,697"
+,TOTAL EQUITY AND LIABILITIES,"1,579,800","1,302,291"

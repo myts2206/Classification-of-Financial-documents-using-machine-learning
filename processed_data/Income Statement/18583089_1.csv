@@ -1,0 +1,31 @@
+0,1,2,3,4,5,6
+,Particulars,Quarter Ended,Year Ended,,,
+"March31, 2018(Unaudited)","December31,2017(Unaudited)","March31, 2017(Unaudited)","March31,2018(Audited)","March31, 2017(Audited)",,
+1,Revenue from operations,,,,,
+,(a) Fee and commission,615.89,513.66,481.18,"2,134.06","1,248.08"
+,(b) Fund based activities,"1,636.66","1,383.06","1,215.27","5,652.12","4,790.91"
+,(c) Premium from insurance business,305.16,128.53,200.35,618.89,425.89
+,(d) Other operating income,51.02,44.20,32.50,175.93,127.20
+,Total revenue from operations,"2,608.73","2,069.45","1,929.30","8,581.00","6,592.08"
+2,Other income,12.54,11.88,8.28,37.62,26.75
+3,Total Revenue (1+2),"2,621.27","2,081.33","1,937.58","8,618.62","6,618.83"
+,,,,,,
+4,Expenses,,,,,
+,(a) Employee benefits expense,402.12,314.71,300.71,"1,354.91","1,102.15"
+,(b) Finance costs,951.21,883.32,725.45,"3,529.53","2,809.69"
+,(c) Depreciation and amortisation expense,33.43,26.93,35.18,111.68,106.43
+,(d) Change in insurance policy liability -actuarial,232.24,106.14,191.92,497.57,426.33
+,(e) Other expenses,638.55,389.46,429.69,"1,706.71","1,231.02"
+,Total expenses,"2,257.55","1,720.56","1,682.95","7,200.40","5,675.62"
+5,Profit / (Loss) before tax (3-4),363.72,360.77,254.63,"1,418.22",943.21
+6,Tax expense,,,,,
+,(a) Current Tax,160.08,130.53,131.97,558.35,456.56
+,(b) Minimum alternate tax,(1.19),(11.05),(8.26),(31.63),(14.38)
+,(c) Deferred Tax,(14.40),19.61,(12.91),33.13,(47.45)
+7,Net Profit / (Loss) aftertax (5-6),219.23,221.68,143.83,858.37,548.48
+8,Share of profit / (loss) of associates,2.16,3.31,7.32,3.94,14.76
+9,Minority interest,(26.83),(11.40),(18.88),(27.82),(46.07)
+10,"Net Profit / (Loss) after taxes, minorityinterest and share of profit / (loss) ofassociates (7+8-9)",248.22,236.39,170.03,890.13,609.31
+11,Earnings Per Share (EPS) in Rupees (FaceValue of' 1/- Per Share),,,,,
+,- Basic (Refer Note 6),2.69,2.66,2.01,10.11,7.26
+,- Diluted (Refer Note 6),2.61,2.57,1.92,9.80,6.92

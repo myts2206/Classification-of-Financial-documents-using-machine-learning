@@ -1,0 +1,31 @@
+0,1,2,3,4,5,6
+SI.No,Particulars,Quarter ended,Preceding quarter,Corresponding,Current year ended,Previous year
+,,(31/03/2018),ended,quarter ended,(31/03/2018),ended
+,,,(31/12/2017),(31/03/2017),,(31/03/2017)
+,,{Refer Note 4),(Unaudited),(Refer Note 4),(Audited),(Audited)
+1,Segment revenueA. Consumer care business,"1,224.92","1,236.41","1,138.66","4,550.66","4,261.11"
+,B. Food business,253.64,188.94,263.42,947.38,983.17
+,C. Other segments,24.84,20.49,"29,70",97.03,113.56
+,D. Unallocated other operating revenue,6.22,3.47,3.02,13.99,12.00
+,Revenue from operations,"1,509.62","1,449.31","1,434.80","5,609.06","5,369.84"
+2,Segment resultsA. Consumer care business,383.07,339.02,343.41,"1,293.01","1,222.51"
+,B. Food business,38.14,21.49,30.62,103.32,101.33
+,C. Other segments,1.71,1.61,1.18,2.81,4.52
+,Sub Total,422.92,362.12,375.21,"1,399.14","1,328.36"
+,Less: Finance costs,5.92,5.22,4.95,21.89,16.23
+,Less: Unallocable expenditure net off unallocable income,(32.14),17.81,(21.97),(10.42),17.78
+,Profit before exceptional items and tax,449.14,339.09,392.23,"1,387.67","1,294.35"
+,Exceptional items,-,-,-,14.54,-
+,Profit before tax,449.14,339.09,392.23,"1,373.13","1,294.35"
+,Less: Tax expenses,95.56,73.62,90.00,301.08,296.02
+,Net profit for the period/year,353.58,265.47,302.23,"1,072.05",998.33
+3,Segment assetsA. Consumer care business,"1,740.45","1,730.73","1,610.11","1,740.45","1,610.11"
+,B. Food business,284.10,275.10,466.69,284.10,466.69
+,C. Other segments,25.73,28.11,28.36,25.73,28.36
+,D. Unallocated,"3,762.42","3,475.29","3,111.86","3,762.42","3,111.86"
+,Total,"5,812.70","5,509.23","5,217.02","5,812.70","5,217.02"
+4,Segment liabilitiesA. Consumer care business,762.86,812.35,555.81,762.86,555.81
+,B. Food business,268.27,233.62,238.37,268.27,238.37
+,C. Other segments,15.44,11.84,7.98,15.44,7.98
+,D. Unallocated,539.27,S54.50,756.98,539.27,756.98
+,Total,"1,585.84","1,612.31","1,559.14","1,585.84","1,559.14"

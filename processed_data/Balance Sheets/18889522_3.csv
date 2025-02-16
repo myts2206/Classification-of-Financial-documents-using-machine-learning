@@ -1,0 +1,61 @@
+0,1,2,3,4,5
+CONSOLIDATED,,COMPANY,,,
+Rupees In Million,,,Rupees in Million,,
+As at current,As at previous,,Particulars,As at currant,As at previous
+year end,year end,,,year end,year end
+31/03/2018,31/03/2017,,,31/03/2018,31/03/2017
+,,A,ASSETS,,
+,,I,Non-current assets,,
+"38,157","32,904",a,"Property, plant and equipment","25,454","22,050"
+"15,272","15,433",b,Capital work-in-progress,"6,592","6,784"
+"13,853","11,494",c,Goodwill,18,18
+"12,816","13,153",d,Other intangible assets,"1,330","1,452"
+"3,605","3,214",e,Investments in joint ventures,0,0
+,,f,Financial assets,,
+"1,104",643,,Investments,"36,181","39,237"
+0,0,ii,Loans,"13,013","14,271"
+"1,529","2,631",iii,Other Financial Assets,"1,212","2,242"
+"9,246","8,955",g,Deferred Tax Assets [Net],0,0
+"2,034","2,845",h,Other non-current assets,"1,722","2,492"
+740,712,j,Assets for Current tax [Net],541,534
+"98,356","91,984",,Sub-total â€¢ Non-current assets,"86,063","89,080"
+,,2,Current assets,,
+"23,853","18,037",a,Inventories,"13,207","9,329"
+,,b,Financial assets,,
+"2,748",491,,Investments,0,0
+"32,063","22,775",ii,Trade receivables,"12,551","9,290"
+"5,367","10,746",iii,Cash and cash equivalents,"1,786",168
+"7,782","4,689",iv,Bank balance other than cash and cash equivalents,52,0
+0,0,V,Loans,178,371
+"3,448",123,vi,Other current financial assets,"3,317",1
+"6,744","3,362",c,Other current assets,"4,423","2,235"
+"82,005","60,223",,Sub-total - Current assets,"35,514","21,394"
+292,0,,Assets classified as held for sale,60,0
+"180,653","152,207",,TOTAL - ASSETS,"121,637","110,474"
+,,B,EQUITY AND LIABILITIES,,
+,,1,Equity,,
+"1,024","1,024",a,Equity share capital,"1,024","1,024"
+"86,421","68,576",b,Other equity,"76,431","65,159"
+"87,445","69,600",c,Equity attributable to equity holders of the Company,"77,455","66,183"
+"1,910","1,561",d,Non-Controlling Interest,0,0
+"89,355","71,161",,Sub-total - Equity,"77,455","66,183"
+,,2,Non-current liabilities,,
+,,a,Financial liabilities,,
+"25,551","24,684",i,Borrowings,"13,511","12,394"
+524,628,ii,Other financial liabilities,87,82
+"1,559","1,512",b,Provisions,741,621
+"2,821","1,164",c,Deferred tax liabilities [Net],"1,936","1,055"
+13,0,d,Other Non-Current Liabilities,0,0
+"30,468","27,988",,,"16,275","14,152"
+,,3,Current liabilities,,
+,,a,Financial liabillta,,
+"25,575","24,769",i,Borrowings,"13,009","15,456"
+"18,884","15,479",ii,Trade payables,"9,921","9,961"
+"13,352","10,602",iii,Other financial liabilities,"4,110","4,009"
+"1,387","1,519",b,Other current liabilities,347,415
+"1,002",573,c,Provisions,283,273
+520,116,d,Current tax liabilities [Net],237,25
+"60,720","53,058",,Sub-total - Current liabilities,"27,907","30,139"
+110,0,,Liabilities directly associated with assets classified as held for sale,0,0
+"180,653","152,207",,TOTAL - EQUITY AND LIABIUTES,"121,637","110,474"
+,,,,,

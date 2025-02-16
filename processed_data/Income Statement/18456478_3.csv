@@ -1,0 +1,37 @@
+0,1,2,3,4,5,6
+,Particulars,Quarter ended,Year ended,,,
+,,31stMar’18,31stDec'17,31stMar'17,31stMar'18,31stMar'17
+1,IncomeValue of sales and services,"86,282","31,603","27,892","1,66,505","97,941"
+,Goods and Services Tax included in above,"10,505","4,490",-,"18,986",.
+,Revenue from operations,"75,777","27,113","27,892","1,47,519","97,941"
+,Other income,735,624,"1,871","2,899","4,333"
+,Total Income,"76,512","27,737","29,763","1,50,418","1,02,274"
+2,"ExpensesMarketing, distribution and promotional expense","14,209","4,387","5,716","28,260","20,793"
+,Employee benefits expense,"14,173","9,324","8,606","42,863","33,155"
+,Finance costs,"1,127",648,520,"2,696",2.243
+,Depreciation and amortisation expense,"2,315","1,571","1,779","6,921",5.637
+,Other expenses,"43,458","10,161","10,926","70,607","40,865"
+,Total Expenses,"75,282","26,091","27,547","1,51,347","1.02,693"
+3,Profit/ (loss) before non-controlling interests/ share of,"1,230","1,646","2,216",(929),(419)
+4,"profit of associate and joint ventures, exceptional itemsand tax (1 - 2)Share of profit of associate and joint ventures",523,"1,864",379,"6,913","3,570"
+5,Profit before exceptional items and tax (3 + 4),"1,753","3,510","2,595","5,984","3,151"
+6,Exceptional items,-,-,-,.,
+7,Profit before Tax (5 - 6),"1,753","3,510","2,595","5,984","3,151"
+8,Tax expenseCurrent tax,"1,899","1,815","1,807","5,302",2.405
+,Deferred tax,(39),108,188,(103),106
+,Total tax expense,"1,860","1,923","1,995","5,199","2,511"
+9,Profit/ (loss) for the period (7 - 8),(107),"1,587",600,785,640
+10,Other Comprehensive Income(i) Items that will not be reclassified to profit or loss,123,183,144,52,(262)
+,(ii) Income tax relating to items that will not be reclassified,(11),(2),(12),(8),(50)
+,to profit or loss(iii) Items that will be reclassified to profit or loss,569,_£32),(1.543),93,(560)
+,Total Other Comprehensive Income,681,(551),"(1,411)",137,(872)
+11,Total Comprehensive Income for the period (9 + 10),574,"1,036",(811),922,(232)
+,Profit/ (loss) for the period attributable to:(a) Owners of the Company,(298),"1,606",839,862,"1,907"
+,(b) Non-controlling interest,191,(19),(239),(77),"(1,267)"
+,Other comprehensive income attributable to:(a) Owners of the Company,620,(551),(1.407),78,(867)
+,(b) Non-controlling interest,61,-,(4),59,(5)
+,Total comprehensive income attributable to:(a) Owners of the Company,322,"1,055",(568),940,1.040
+,(b) Non-controlling interest,252,(19),(243),(18),"(1,272)"
+12,Earnings per equity share (Face Value of ? 2 each)Basic and Diluted (in ?),(0.02),0.09,0.05,0.05,0.11
+13,Paid up equity share capital. Equity Shares of ? 2 each,"34,287",34.287,"34,287","34,287",34 287
+14,Other Equity excluding revaluation reserve,,,,"2,99,734","2,98.794"

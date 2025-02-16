@@ -1,0 +1,53 @@
+0,1,2,3,4,5,6
+Sr.No.,,Quarter Ended,Year Ended,,,
+Particulars,31-03-2018,31-12-2017,31-03-2017,31-03-2018,31-03-2017,
+,(Audited),(Unaudited),(Audited),(Audited),(Audited),
+1,IncomeRevenue from Operations,"10,234.03","9,728.11","11,836.53","37,381.55","36,608.30"
+,Other Income,343.18,90.10,161.38,602.82,734.32
+,Total Income,"10,577.21","9,818.21","11,997.91","37,984.37","37,342.62"
+2,Expenses(a) Cost of materials consumed,363.01,103.60,108.56,676.76,501.35
+,"(b)    Purchases of stock-in-trade(c)    Changes in inventories of finished goods,","7,624.37","8,247.69","9,423.42",30.971.75,"30,443,81"
+,work-in-progress & stock-in-trade,188.71,(368.97),609.58,(771.98),36.38
+,(d) Employee benefits expense,160.70,138.40,135.38,607.21,510.67
+,(e) Finance costs,354.18,323.29,298.36,"1,306.02","1,257.31"
+,(f) Depreciation and amortisation expense,162.91,207.54,86.46,724.93,315.46
+,(g) Impairment of non-current assets,89.64,â–,-,89.64,-
+,(h) Other expenses,"1,139.39",889.09,927.64,"3,410.69","3,099.28"
+,(i) Foreign exchange loss / (gain),11.86,(4.97),(23.42),87.64,87.64
+,Total Expenses,"10,094.77","9,535.67","11,565.98","37,102.66","36,251.90"
+3,Profit before exceptional items and tax (1-2),482.44,282.54,431.93,881.71,"1,090.72"
+4,Add/(Less) : Exceptional items (net)(Refer Note 7),(183.49),-,(204.63),(183.49),26.95
+5,Profit before tax (3+4),298.95,282.54,227.30,698.22,"1,117.67"
+6,Tax expenses(a) Current Tax,77.00,53.19,36.53,200.01,183.07
+,(b) Deferred Tax,18.65,(1.58),39.02,6.95,88.08
+,Total Tax Expense,95.65,51.61,75.55,206.96,271.15
+7,Profit / (Loss) for the period before share of profit from jointventures and associates (5-6),203.30,230.93,151.75,491.26,846.52
+8,Add / (Less): Share of profit / (loss) of joint ventures andassociates,19.80,69.37,8.41,216.87,117.53
+9,Profit/(Loss) for the period from Continuing Operations (7+8),223.10,300.30,160.16,708.13,964.05
+10,Profit / (Loss) from Discontinuing Operations,(77.46),(24.10),(118.02),(190.28),(213.07)
+,Less : Tax expense of Discontinuing Operations,(35.53),(10.77),(176.66),(76.35),(174.27)
+,Profit/(Loss) after tax from Discontinuing Operations,(41.93),(13.33),58.64,(113.93),(38.80)
+11,Profit/(Loss) for the period (9+10),181.17,286.97,218.80,594.20,925.25
+12,Other Comprehensive Income(a) Items that will not be reclassified to profit or loss,2.65,11.21,(0.57),188.56,(2.22)
+,(b) Income tax relating to items that will not bereclassified to profit or loss,(2.40),3.61,0.23,2.18,0.39
+,(c)    Items that will be reclassified to profit or loss(d)    Income tax relating to items that will be,274.01,(283.41),(448.66),57.62,(230.52)
+,reclassified to profit or loss,,,,,
+,Other Comprehensive Income,274.26,(268.59),(449.00),248.36,(232.35)
+13,Total Comprehensive Income for the period (11+12),455.43,18.38,(230.20),842.56,692.90
+14,Net Profit attributable to:,,,,,
+,Owners of the Company,188.29,350.55,220.97,757.25,987.74
+,Non-controlling interests,(7.12),(63.58),(2.17),(163.05),(62.49)
+15,Other Comprehensive Income attributable to :,,,,,
+,Owners of the Company,274.50,(268.60),(449.13),248.48,(232.47)
+,Non-controlling interests,(0.24),0.01,0.13,(0.12),0.12
+16,Total Comprehensive Income attributable to :,,,,,
+,Owners of the Company,462.79,81.95,(228.16),"1,005.73",755.27
+,Non-controlling interests,(7.36),(63.57),(2.04),(163.17),(62.37)
+17,Paid-up Equity Share Capital(Face Value of? 1 each),109.98,109.98,109.98,109.98,109.98
+18,Other Equity,,,,"14,979.19","14,025.99"
+19,Earning per share (Face Value ofX1 each)(not annualised):From Continuing Operations,,,,,
+,Basic & Diluted,2.22,3.09,1.77,7.65,9.15
+,From Discontinuing Operations,,,,,
+,Basic & Diluted,(0.51),0.10,0.24,(0.76),(0.17)
+,From Continuing & Discontinuing Operations,,,,,
+,Basic & Diluted,1.71,3.19,2.01,6.89,8.98

@@ -1,0 +1,10 @@
+0,1,2,3,4,5,6,7
+S.No.,ISIN No.,Date ofAllotment,Last Interestpayment date,Next Interestpayment date,Last PrincipalPayment Date,Next PrincipalPayment Date,PrincipalAmount
+,,,,,,,
+A,Secured Debentures,,,,,,
+1,INE055I07032,06-Feb-l5,On maturity,25-Apr-l8,-,25-Apr-18,40.00
+2,INE055I07040,3l-Mar-15,31-Mar-17,02-Apr-18,-,31-Mar-20,"10,00"
+3,INE055I07040,3l-Mar-15,31-Mar-17,02-Apr-18,-,31-Mar-20,25.00
+4,INE055I07057,31-Mar-15,31-Mar-17,02-Apr-18,-,31-Mar-22,20.00
+5,INE055I07065,3l-Mar-16,31-Mar-17,02-Apr-18,-,31-Mar-23,10.00
+,Sub Total (A),,,,,,105.00

@@ -1,0 +1,39 @@
+0,1,2,3,4
+Notes,Year ended31-Mar-2018,Year ended31-Mar-2017,,
+A,CASH FLOW FROM OPERATING ACTIVITIES PROFIT BEFORE TAXAdjustments for :,,931.01,"1,088.09"
+,"Depreciation, amortisation and impairment expense",,408.60,306.92
+,Allowance for doubtful trade receivables (net),,(8.20),16.27
+,Unrealised foreign exchange gain (net),,(41.17),(23.05)
+,"Loss / (Gain) on sale / discard / write-off of property, plant & equipments",,11.10,2.48
+,Net gain on sale of investments,,(65.23),(73.06)
+,Finance cost,,308.48,205.56
+,Interest income,,(6.66),(4.85)
+,OPERATING CASHFLOWS BEFORE WORKING CAPITAL CHANGESAdjustments for changes in working capital :,,"1,537.93","1,518.36"
+,"Trade receivables, loans and other assets",,(343.92),404.12
+,Inventories,,(306.04),(192.35)
+,"Trade payables, liabilities and provisions",,289.83,(336.98)
+,CASH GENERATED FROM OPERATIONS,,"1,177.80","1,393.15"
+,Direct taxes paid,,(283.62),(384.31)
+,NET CASH FROM OPERATING ACTIVITIES,,894.18,"1,008.84"
+B,CASH FLOW FROM INVESTING ACTIVITIES,,,
+,Acquisition of business / undertaking,33,"(3,961.92)",(129.78)
+,"Purchase of property, plant and equipment and intangible assets",,(791.25),(486.81)
+,"Proceeds from sale of property, plant and equipment and intangible assets",,2.10,0.92
+,Net gain on sale of investments,,65.23,73.06
+,Investment in corporate deposits,,(1.01),(1.03)
+,Purchase of investments,,(15.25),-
+,Investment in bank deposits other than cash and cash equivalents,,(10.99),(248.40)
+,Interest received,,6.14,5.13
+,NET CASH USED IN INVESTING ACTIVITIES,,"(4,706.95)",(786.91)
+C,CASH FLOW FROM FINANCING ACTIVITIES,,,
+,Proceeds from long-term borrowings,,"2,859.16","1,368.61"
+,Repayment of long-term borrowings,,(520.44),"(1,163.25)"
+,Proceeds from / (Repayment of) short term borrowings,,"1,619.10",(3.32)
+,Dividend paid (including tax on dividend),,(264.77),(203.67)
+,Finance cost paid,,(275.66),(191.28)
+,NET CASH FROM / (USED IN) FINANCING ACTIVITIES,,"3,417.39",(192.91)
+,NET (DECREASE) / INCREASE IN CASH AND CASH EQUIVALENTS,,(395.38),29.02
+,Effect of exchange rate changes on foreign currency cash and cash equivalents,,24.64,(11.31)
+,Cash and cash equivalents transferred on acquisition,,5.24,-
+,CASH AND CASH EQUIVALENTS AT BEGINNING OF YEAR,,"1,067.57","1,049.86"
+,CASH AND CASH EQUIVALENTS AT END OF YEAR,,702.07,"1,067.57"

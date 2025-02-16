@@ -1,0 +1,34 @@
+0,1,2,3,4,5
+Particulars,,Quarter ended,Year ended,,
+,31-Mar-18,31-Dec-17,31-Mar-17,31-Mar-18,31-Mar-17
+,Audited *,Unaudited,Audited *,Audited,Audited
+Segment RevenueA. Electrical cables,"6,489.1","5,221.1","6,039.0","23,061.6","21,778.1"
+B. Communication cables,"1,226.7","1,126.0","1,052.3","4,769.3","3,685.1"
+C. Copper rods,"2,317.0","2,529.7","1,730.6","9,043.2","5,135.0"
+D. Others,188.7,118.4,158.6,599.1,413.8
+Total segment revenue,"10,221.5","8,995.2","8,980.5","37,473.2","31,012.0"
+Less: Inter segment revenue,"(2,229.5)","(2,377.7)","(1,134.4)","(8,444.8)","(4,304.5)"
+Net segment revenue,"7,992.0","6,617.5","7,846.1","29,028.4","26,707.5"
+Segment Results,,,,,
+A. Electrical cables,"1,245.2",885.2,"1,028.4","3,761.3","3,313.5"
+B. Communication cables,123.8,44.8,153.7,467.2,333.6
+C. Copper rods,(59.1),48.1,(31.3),96.5,16.3
+D. Others,(13.5),(14.9),(121.5),(100.1),(158.1)
+Total segment results,"1,296.4",963.2,"1,029.3","4,224.9","3,505.3"
+(Less): Finance costs,(14.4),-,(5.5),(14.4),(42.9)
+Add /(Less): unallocable income/(Loss) net of unallocableexpenditure,(5.2),89.1,(1.4),834.3,730.8
+Profit before tax,"1,276.8","1,052.3","1,022.4","5,044.8","4,193.2"
+Segment Assets,,,,,
+A. Electrical cables,"7,822.1","8,089.3","7,785.7","7,822.1","7,785.7"
+B. Communication cables,"2,923.0","2,765.8","2,137.0","2,923.0","2,137.0"
+C. Copper rods,386.4,184.3,317.5,386.4,317.5
+D. Others,292.6,297.4,347.7,292.6,347.7
+Unallocable Assets,"13,336.4","12,834.1","11,173.6","13,336.4","11,173.6"
+Total Assets,"24,760.5","24,170.9","21,761.5","24,760.5","21,761.5"
+Segment Liabilities,,,,,
+A. Electrical cables,"1,994.7","2,074.7","2,184.0","1,994.7","2,184.0"
+B. Communication cables,247.6,305.1,400.9,247.6,400.9
+C. Copper rods,58.2,74.9,34.9,58.2,34.9
+D. Others,63.9,36.9,39.3,63.9,39.3
+Unallocable Liabilities,457.1,591.8,328.0,457.1,328.0
+Total Liabilities,"2,821.5","3,083.4","2,987.1","2,821.5","2,987.1"

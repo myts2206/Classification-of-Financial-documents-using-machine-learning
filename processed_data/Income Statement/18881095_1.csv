@@ -1,0 +1,51 @@
+0,1,2,3,4,5,6,7,8
+SI.No,PARTIParticulars,Standalone,Consolidated,,,,,
+3 Months ended,Year ended,Year ended,,,,,,
+31-Mar-18,31-Dec-17,31-Mar-17,31-Mar-18,31-Mar-17,31-Mar-18,31-Mar-17,,
+,,Audited,Unaudited,Audited,Audited,Audited,Audited,Audited
+1,Revenue from Operations,1397.81,1213.08,1522.58,5340.72,5777.52,5432.27,5860.87
+2,Other Income,3.92,3.67,1.71,19.41,16.51,24.50,19.29
+3,Total Income (1+2),1401.73,1216.75,1524.29,5360.13,5794.03,5456.77,5880.16
+4,Expenses,,,,,,,
+,(a) Cost of Materials consumed,253.46,222.66,229.36,901.38,895.65,940.67,931.12
+,(b) Purchases of stock-in-trade,(2.79),6.00,8.48,11.91,8.48,11.91,8.48
+,"(c) Changes in inventories of finished goods, stock-in-trade and work in progress",(3.70),9.85,(15.39),28.32,(18.25),28.36,(18.12)
+,(d) Employee benefits expense,99.63,76.39,99.31,397.10,377.85,406.23,382.13
+,(e) Finance costs,71.82,92.37,81.99,340.17,360.46,364.76,379.97
+,(f) Depreciation and Amortisation expense,66.40,63.33,63.92,255.94,257.06,279.00,276.01
+,(g) Power and Fuel,349.23,306.47,322.73,1238.88,1059.74,1225.97,1046.99
+,(h) Transportation & Handling,331.53,281.13,311.00,1193.96,1131.29,1192.47,1129.93
+,(i) Other Expenses,211.91,143.31,377.14,876.36,1461.73,917.66,1492.10
+,Total Expenses (4),1377.49,1201.51,1478.54,5244.02,5534.01,5367.03,5628.61
+5,Profit/(Loss) before exceptional Items and Tax (3-4),24.24,15.24,45.75,116.11,260.02,89.74,251.55
+6,Exceptional Items,,,,,,,
+7,Profit/(Loss) before Tax (5-6),24.24,15.24,45.75,116.11,260.02,89.74,251.55
+8,Tax Expense,,,,,,,
+,(1) Current Tax,(1.70),3.25,(21.49),17.90,53.71,24.43,57.43
+,(2) Deferred Tax,(9.33),(3-25),32.96,(2.41),32.96,(5.19),36.57
+9,Profit/(Loss) for the period from continuing operations (7-8),35.27,15.24,34.28,100.62,173.35,70.50,157.55
+10,Profit/(Loss) from discontinued operations,,,,,,,
+11,Tax Expense of discontinued operations,,,,,,,
+12,Profit / (Loss) from discontinued operations (after Tax) (10-11),,,,,,,
+13,Profit / (Loss) for the period (9+12),35.27,15.24,34.28,100.62,173.35,70.50,157.55
+14,Share Of Profit/(Loss) of associates,,,,,,0.28,1.01
+15,Minority interest,,,,,,(4.34),(7.53)
+16,"Net Profit / (Loss) after taxes, minority interest and share of Profit/(Loss) of associates (13+14+15)",35.27,15.24,34.28,100.62,173.35,66.44,151.03
+17,Other Comprehensive Income,,,,,,,
+,A.(i) Items that will not be reclassified to Profit / (Loss),9.62,,(8.37),9.62,(8.37),7.61,9.15
+,(ii) Income tax relating to the Items that will not be reclassified to Profit / (Loss),(3.33),,2.90,(3.33),2.90,(3.33),2.89
+,B.(i) Items that will be reclassified to Profit / (Loss),,,,,,,
+,(ii) Income tax relating to items that will be reclassified to Profit / (Loss),,,,,,,
+,Total Other Comprehensive Income,6.29,,(5.47),6.29,(5.47),4.28,12.04
+18,Total Comprehensive Income for the period (16+17),41.56,15.24,28.81,106.91,167.88,70.72,163.07
+19,Paid up Equity Share Capital (Face Value Rs 10/-each),308.15,308.15,308.15,308.15,308.15,308.15,308.15
+20,Other Equities (Reserves),,,,4892.18,4801.76,4960.93,4866.75
+21,Earnings per equity share (for continuing operations),,,,,,,
+,,1.35,0.49,0.93,3.47,5.45,2.29,5.29
+,Diluted,1.35,0.49,0.93,3.47,5.45,2.29,5.29
+22,Earnings per equity share( for discontinued operations),,,,,,,
+,Basic,,,,,,,
+,Diluted,,,,,,,
+23,Earnings per equity share (for discontinued and continuing operations),,,,,,,
+,,1.35,0.49,0.93,3.47,5.45,2.29,5.29
+,Diluted,1.35,0.49,0.93,3.47,5.45,2.29,5.29

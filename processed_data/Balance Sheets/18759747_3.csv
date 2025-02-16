@@ -1,0 +1,51 @@
+0,1,2,3
+SI.,Particulars,STANDALONE,
+No.,As at,As at,
+,,31.03.2018,31.03.2017
+,,Audited,
+A,ASSETS,,
+1,"Non-Current Assets(a) Property, Plant and Equipment","2,791.20","2,824.00"
+,(b) Capital Work-In-Progress,226.14,205.08
+,(c) Investment Property,0.61,0.66
+,(d) Goodwill,-,-
+,(e) Other Intangible Assets,1.71,1.68
+,(f)    Intangible Assets Under Development(g)    Investment in an Associate(h)    Financial Assets,1.94,
+,(i) Investments,353.89,309.49
+,(ii) Loans,61.94,54.26
+,(iii) Others,0.11,0.10
+,(i) Deferred Tax Assets (Net),19.98,8.65
+,(j) Other Non-Current Assets,26.18,50.62
+,Sub - Total Non-Current Assets,"3,483.70","3,454.54"
+2,Current Assets(a)    Inventories(b)    Financial Assets,317.03,277.64
+,(i) Investments,1 440.24,499.70
+,(ii) Trade Receivables,96.94,89.50
+,(iii) Cash and Cash Equivalents,3.55,2.06
+,(iv) Bank Balance other than (iii) above,8.04,6.92
+,(v) Others,9.45,10.46
+,(c) Current Tax Assets (Net),-,-
+,(d) Other Current Assets,129.84,182.88
+,Sub - Total Current Assets,"1,005.09","1,069.16"
+,TOTAL ASSETS (1 + 2 ),"4,488.79","4,523.70"
+B,EQUITY AND LIABILITIES,,
+1,EQUITY(a) Equity Share Capital,58.85,58.85
+,(b) Other Equity,"1,394.36","1,322.84"
+,(c) Non Controlling Interest,-,-
+,Sub - Total Equity,"1,453.21","1,381.69"
+2,LIABILITIES,,
+2,Non-Current Liabilities(a)Financial Liabilities,,
+,(i) Borrowings,"1,398.42","1,590.06"
+,(ii) Trade Payable,-,-
+,(iii) Other Financial Liabilities,140.08,140.27
+,(b) Provisions,10.80,10.77
+,(c) Deferred Tax Liabilities (Net),-,-
+,(d) Other Non-Current Liabilities,160.57,156.83
+,Sub - Total Non-Current Liabilities,"1,709.87","1,897.93"
+2,Current Liabilities(a) Financial Liabilities,,
+,(i) Borrowings,412.96,376.25
+,(ii) Trade Payable,318.62,264.78
+,(iii) Other Financial Liabilities,372.50,371.93
+,(b) Other Current Liabilities,208.72,211.52
+,(c) Provisions,10.23,7.46
+,(d) Current Tax Liabilities (Net),2.68,12.14
+,Sub - Total Current Liabilities,"1,325.71","1,244.08"
+,TOTAL EQUITY AND LIABILITIES (1 + 2 ),"4,488.79","4,523.70"

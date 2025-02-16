@@ -1,0 +1,36 @@
+0,1,2,3,4,5
+,Particulars,3 months ended31/03/2018,Preceding 3 monthsended 31/12/2017,Corresponding 3months ended31/03/2017 in theprevious year,Previous year ended31/12/2017
+Unaudited,Audited,Unaudited,Audited,,
+a),Segment Revenues,,,,
+,Robotics and Motion,596.90,531.76,498.93,"1,935.93"
+,Electrification Products,650.92,633.22,689.00,"2,439.08"
+,Industrial Automation,302.35,468.70,298.76,"1,409.18"
+,Power Grids,969.79,"1,089.93",685.14,"3,128.87"
+,Others,80.19,151.95,192.82,764.61
+,Total,"2,600.15","2,875.56","2,364.65","9,677.67"
+,Less: Inter segment revenues,74.67,96.16,63.47,302.57
+,Total Revenue from operations,"2,525.48","2,779.40","2,301.18","9,375.10"
+b),Segment Results (Profit Before Tax and Interest),,,,
+,Robotics and Motion,43.10,53.95,38.06,162.77
+,Electrification Products,66.99,92.43,78.23,281.18
+,Industrial Automation,39.44,88.06,11.38,170.03
+,Power Grids,102.59,148.30,62.52,344.13
+,Total,252.12,382.74,190.19,958.11
+,(Add) / Less - Interest,23.15,17.83,21.18,77.31
+,- Other unallocated expenditure net off,71.87,113.42,35.07,259.04
+,unallocated income,,,,
+,Total Profit Before Tax,157.10,251.49,133.94,621.76
+c),Segment Assets,,,,
+,Robotics and Motion,"1,169.01","1,005.43",892.44,"1,005.43"
+,Electrification Products,"1,462.68","1,222.52","1,269.35","1,222.52"
+,Industrial Automation -----,957.24,957.15,914.61,----- 957.15
+,Power Grids,"2,672.12","2,511.42","1,441.63","2,511.42"
+,Unallocated,"2,945.91","3,191.53","3,596.94","3,191.53"
+,Total Segment Assets,"9,206.96","8,888.05","8,114.97","8,888.05"
+d),Segment Liabilities,,,,
+,Robotics and Motion,856.58,710.61,592.96,710.61
+,Electrification Products,874.62,698.15,702.01,698.15
+,Industrial Automation,612.27,619.93,572.43,619.93
+,Power Grids,"1,957.75","1,897.44",983.22,"1,897.44"
+,Unallocated,"1,185.39","1,355.03","1,883.97","1,355.03"
+,Total Segment Liabilities,"5,486.61","5,281.16","4,734.59","5,281.16"

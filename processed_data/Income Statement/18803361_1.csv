@@ -1,0 +1,34 @@
+0,1,2,3,4,5,6
+Sri. No.,Particulars,Quarter ended,Year ended,,,
+,,31.03.2018,31.12.2017,31.03.2017,31.03.2018,"31,03.2017"
+,,Audited(Refer Note 5),Unaudited,Audited(Refer Note 5),Audited,Audited
+1,Income,,,,,
+,(a) Revenue from operations (Refer Note 3),"1,580.74","1,553.46","1,511.93","6,232.98","5,981.39"
+,(b) Other income,23.70,16.76,15.06,66.37,49.24
+,Total income,"1,604.44","1,570.22","1,526.99","6,299.35","6,030.63"
+2,Expenses,,,,,
+,(a) Cost of materials consumed,"1,043.39","1,086.74",934.90,"3,921.71","3,452.16"
+,(b) Purchases of stock-in-trade,48.25,40.15,26.63,221.71,207.43
+,"(c) Changes in inventories of finished goods,work-in-progress and stock-in-trade",(5.02),(87.94),(47.13),(27.17),(171.10)
+,(d) Excise duty,-,-,167.47,173.83,664.24
+,(e) Employee benefits expense,78.29,75.76,70.52,308.99,277.75
+,(f) Finance costs,1.31,1.13,1.50,5.06,5.77
+,(g) Depreciation and amortisation expense,58.83,58.74,49.89,230.34,191.17
+,(h) Other expenses,205.10,197.17,175.17,750.68,701.00
+,Total expenses,"1,430.15","1,371.75","1,378.95","5,585.15","5,328.42"
+3,Profit before tax (1-2),174.29,198.47,148.04,714.20,702.21
+4,Tax expense,,,,,
+,(a) Current tax,65.34,62.67,51.54,236.58,195.64
+,(b) Deferred tax,(0.85),1.35,(2.69),6.30,28.08
+,Tax expense,64.49,64.02,48.85,242.88,223.72
+5,Net profit after tax (3-4),109.80,134.45,99.19,471.32,478.49
+6,Other comprehensive incomeItems that will not be reclassified to profit or loss,,,,,
+,(a) Remeasurements of the defined benefit plans,1.01,-,0.81,0.69,(2.01)
+,(b)    Equity instruments through other comprehensiveincome (FVTOCI)(c)    Income tax relating to items that will not be,0.23,(0.27),1.33,0.83,0.40
+,reclassified to profit or loss,-,-,(lid,-,0.32
+,Total other comprehensive income / (loss),1.24,(0.27),1.03,1.52,(1.29)
+7,Total comprehensive income (5+6),111.04,134.18,100.22,472.84,477.20
+8,Paid-up equity share capital (Face value ? 1/- each),17.08,17.08,17.08,17.08,17.08
+9,Reserves (excluding revaluation reserves) as per Balance Sheet,,,,"2,920.31","2,575.99"
+10,Earnings per share (of? 1/- each) (for the period - not annualised),,,,,
+,- Basic and Diluted (?),6.43,7.87,5.81,27.59,28.01

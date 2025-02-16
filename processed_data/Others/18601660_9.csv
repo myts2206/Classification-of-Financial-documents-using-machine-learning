@@ -1,0 +1,38 @@
+0,1,2,3,4,5,6,7
+Sr.No.,ISIN,Date ofAllotment,Date ofMaturity,Due date forPayment ofRedemption/Interest,Type ofPayment(Interest /Principal),Amount,NCD Type
+1,INE688I07493,05-Apr-17,03-Apr-20,05-Apr-18,Interest,"167,000,000",Secured
+2,INE688I07501,05-Apr-l 7,05-Apr-22,05-Apr-18,Interest,"252,000,000",Secured
+3,INE688I07527,13-Apr-l 7,13-Apr-20,13-Apr-18,Interest,"154,475,000",Secured
+4,INE688I07535,13-Apr-17,13-Apr-22,13-Apr-18,Interest,"42,000,000",Secured
+5,INE688I07550,03-May-17,30-Apr-20,03-May-18,Interest,"70,975,000",Secured
+6,INE688I07568,03-May-17,03-May-22,03-May-18,Interest,"155,400,000",Secured
+7,INE688I07576,03-May-17,03-May-24,03-May-18,Interest,"59,150,000",Secured
+8,INE688I07584,16-May-17,15-May-20,16-May-18,Interest,"125,250,000",Secured
+9,INE688I07238,17-May-16,15-May-26,17-May-18,Interest,"71,200,000",Secured
+10,INE688I07592,17-May-17,15-May-20,17-May-18,Interest,"41,750,000",Secured
+11,INE688I08053,17-May-13,17-May-28,17-May-18,Interest,"47,500,000",Sub-Debt
+12,INE688I07600,18-May-17,18-May-20,18-May-18,Interest,"41,750,000",Secured
+13,INE688I07618,19-May-17,19-May-20,21-May-18,Interest,"125,250,000",Secured
+14,INE688I08061,24-May-13,Perpetual,24-May-18,Interest,"15,975,000",Perpetual
+15,INE688I07220,23-Mar-16,28-May-21,28-May-18,Interest,"151,519,315",Secured
+16,INE688I07246,31-May-16,31-May-19,31-May-18,Interest,"22,625,000",Secured
+17,INE688I07253,31-May-16,31-May-21,31-May-18,Interest,"77,350,000",Secured
+18,INE688I07261,31-May-16,31-May-23,31-May-18,Interest,"18,200,000",Secured
+19,INE688I08145,01-Mar-16,Perpetual,Ol-Jun-18,Interest,"15,879,452",Perpetual
+20,INE688I07626,05-Jun-l 7,05-Jun-20,05-Jun-18,Interest,"41.500,000",Secured
+21,INE688I08152,06-Jun-16,05-Jun-26,06-Jun-18,Interest,"29,250,000",Perpetual
+22,INE688I07279,13-Jun-16,13-Jun-19,13-Jun-18,Interest,"4.525,000",Secured
+23,INE688I07287,13-Jun-16,13-Jun-23,13-Jun-18,Interest,"6,370,000",Secured
+24,INE688I07634,15-Jun-17,15-Jun-27,15-Jun-18,Interest,"62,850,000",Secured
+25,INE688I07642,27-Jun-l 7,27-Jun-22,27-Jun-18,Interest,"41,250,000",Secured
+26,INE688I07311,19-Jul-16,29-Jun-18,29-Jun-18,Interest,"21,290,753",Secured
+27,INE688I07311,19-Jul-16,29-Jun-18,29-Jun-18,Principal,"250,000,000",Secured
+28,INE688I07295,30-Jun-16,28-Jun-19,02-Jul-18,Interest,"40,948,151",Secured
+29,INE688I07303,30-Jun-16,30-Jun-21,02-Jul-l8,Interest,"9,149,863",Secured
+30,INE688I07659,14-Jul-l 7,14-Jul-22,16-Jul-18,Interest,"391,875,000",Secured
+31,INE688I07329,19-Jul-l 6,19-Jul-19,19-Jul-18,Interest,99.550.000,Secured
+32,INE688I07345,19-Jul-16,19-Jul-23,19-Jul-18,Interest,"32,208,000",Secured
+33,INE688I08160,25-Jul-16,24-Jul-26,25-Jul-18,Interest,27.720.000,Sub-Debt
+34,INE688I08178,24-Aug-17,24-Aug-27,24-Aug-18,Interest,"165,000,000",Sub-Debt
+35,INE688I08145,01-Mar-16,Perpetual,03-Sep-18,Interest,"16.224,658",Perpetual
+36,INE688I07360,15-Sep-16,15-Sep-2I,17-Sep-18,Interest,"17,495,342",Secured

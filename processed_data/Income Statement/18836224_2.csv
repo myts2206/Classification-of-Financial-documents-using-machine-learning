@@ -1,0 +1,45 @@
+0,1,2,3,4,5,6,7,8
+,,STANDALONE,CONSOLIDATED,,,,,
+,,AUDITED,UNAUDITED |,AUDITED,AUDITED RESULTS FOR,AUDITED RESULTS FOR,,
+,PARTICULARS,RESULTS FOR THREE MONTHS ENDED,THE YEAR ENDED,THE YEAR ENDED,,,,
+,,31.03.2018,31.12.2017 |,31.03.2017,31.03.2018 |,31.03.2017,31.03.2018 |,31.03.2017
+A.,FINANCIAL,,,,,,,
+1.,Revenue from operations (Refer Note 9),"1,36,732.63","1,30,865.36","1,22,322.39","5,06,427.59","4,45,441.90","5,15,541.89","4,53,794.73"
+2.,Other Income,248.10,"1,353.18","2,083.28","3,414.62","4,200.62","3,419.88","3,862.20"
+3.,Total Income (1+2),"1,36,980.73","1,32,218.54","1,24,405.67","5,09,842.21","4,49,642.52","5,18,961.77","4,57,656.93"
+4.,Expenses,,,,,,,
+(a),Cost of materials consumed,"54,398.68","50,046.96","47,064.47","1,88,780.12","1,56,950.55","2,17,228.51","1,79,874.35"
+(b),Excise Duty,"19,364.09","20,198.18","21,947.79","82,388.89","85,499.75","94,050.07","98,415.73"
+(c)(d),"Purchases of Stock-in-TradeChanges in Inventories (Finished Goods, Stock-in-trade and Work-InProgress)","42,627.50(2,277.76)","39,017.03(1,709.88)","41,503.11(8,854.33)","1,52,117.552,327.50","1,41,925.49(15,259.80)","1,18,116.411,501.48","1,10,377.10(15,092.13)"
+(e),Employee benefits expense,"2,941.85","2,359.52","4,263.02","10,079.41","9,718.92","10,680.70","10,262.76"
+(f),Finance Costs,"1,302.89",654.91,"1,154.05","3,448.44","3,445.43","3,810.51","3,721.26"
+(g),Depreciation and Amortization expense,"1,933.63","1,715.07","1,729.04","7,067.01","6,222.97","7,663.54","6,805.92"
+(h),Impairment Losses,',',',',*,4.33,61.79
+(i),Net Loss on de-recognition of Financial Assets at Amortised Cost,7.96,-,4.68,7.96,4.68,7.96,4.68
+0),Other Expenses,"8,649.04","7,684.56","12,008.98","31,061.05","34,813.29","32,359.19","35,909.73"
+,Total expenses,"1,28,947.88","1,19,966.35","1,20,820.81","4,77,277.93","4,23,321.28","4,85,422.70","4,30,341.19"
+5.,Profit/(Loss) before Exceptional Items and Tax (3-4),"8,032.85","12,252.19","3,584.86","32,564.28","26,321.24","33,539.07","27,315.74"
+6.,Share of profit/(loss) of an associate/ a joint venture,,,,,,911.15,640.06
+7.,Profit/(Loss) before Tax (5+6),"8,032.85","12,252.19","3,584.86","32,564.28","26,321.24","34,450.22","27,955.80"
+8.,Tax Expense,,,,,,,
+,- Current Tax,"1,842.77","3,122.37","1,440.08","7,276.45","7,460.29","7,648.32","7,794.77"
+,- Deferred Tax,971.98,"1,246.60","(1,575.84)","3,941.71",(245.45),"4,175.55",ITJA371
+,,"2,814.75","4,368.97",(135.76),"11,218.16","7,214.84","11,823.87","7,570.40"
+9.,Net Profit/(Loss) for the period (7-8),"5,218.10","7,883.22","3,720.62","21,346.12","19,106.40","22,626.35","20,385.40"
+10.,Other Comprehensive Income,,,,,,,
+,A (i) Items that will not be reclassified to profit or lossA (ii) Income Tax relating to items that will not be reclassifiedto profit or loss,"(2,057.14)420.97","3,409.13(62.31)",(944.15)181.18,208.15358.66,"4,537.97181.18",64.43355.21,"4,533.49184.98"
+,B (i) Items that will be reclassified to profit or lossB (ii) Income Tax relating to items that will be reclassified to,(39.60),(292.24),(322.46),(232.42),247.75,455.55,54.09
+,profit or loss,11.75,79.16,97.93,62.97,(99.41),62.97,(99.41)
+,,"(1,664.02)","3,133.74",(987.50),397.36,"4,867.49",938.16,"4,673.15"
+11.,Total Comprehensive Income for the period (9+10),"3,554.08","11,016.96","2,733.12","21,743.48","23,973.89","23,564.51","25,058.55"
+12.,Total Comprehensive Income attributable to Non-controlling Interest,,,,,,435.27,521.16
+13.,Total Comprehensive Income attributable to Equityholders of theParent (12-13),"3,554.08","11,016.96","2,733.12","21,743.48","23,973.89","23,129.24","24,537.39"
+14.,Paid-up Equity Share Capital (Face value - ?10 each),"9,711.81","4,855.90","4,855.90","9,711.81","4,855.90","9,711.81","4,855.90"
+15.,Other Equity excluding revaluation reserves,,,,"1,00,692.33","94,989.38","1/04,395.13","97,356.76"
+16.,Earnings per Share (?) (not annualized) (Refer Note 11)(Basic and Diluted) (Face value -?10 each),5.51,8.32,3.93,22.52,20.16,23.41,20.94
+B.,PHYSICAL (IN MMT),,,,,,,
+1.,Product Sales,,,,,,,
+,- Domestic,20.795,20.949,19.641,81.489,78.641,,
+,- Export,1.764,1.861,1.459,7.274,4.849,,
+2.,Refineries Throughput,17.152,18.232,17.087,69.001,65.191,,
+3.,Pipelines Throughput,22.562,22.417,19.843,85.675,82.490,,

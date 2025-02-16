@@ -1,0 +1,36 @@
+0,1,2,3,4,5,6
+NOTE 36. EMPLOYEE BENEFITS,"March 31,2018","March 31, 2017",,,,
+A.,Defined contribution plans,,,,,
+,Employer's contribution to provident fund,,452.12,,425.98,
+,Employer's contribution to pension fund,,,75.33,,68.22
+,Employer's contribution to ESIC,,,15.27,,13.33
+,Labour welfare fund contribution for workmen,,,0.40,,0.38
+('in Lakh),,,,,,
+,,GRATUITY,LEAVE ENCASHMENT,,,
+B.,Defined benefit plans,"March31,2018","March31,2017",31,"March , 2018","March31, 2017"
+i),Change in present value of obligations,,,,,
+,Present value obligation at the beginning of the year,"1,201.32","1,000.96",,202.44,169.68
+,Interest cost,88.83,78.02,,14.97,13.23
+,Service cost,185.01,183.08,,67.39,56.75
+,Re-measurement (gain) / loss,(395.44),(11.77),,(63.65),(11.97)
+,Benefit paid,(68.68),(37.66),,(28.32),(25.25)
+,Employee's transfer,(0.08),(11.31),,-,-
+,Present value obligation at the end of the year,"1,010.96","1,201.32",,192.83,202.44
+ii),Change in fair value of plan assets,,,,,
+,Fair value of plan assets at the beginning of the year,"1,038.31",743.30,,-,-
+,Return on plan asset,76.78,57.94,,-,-
+,Employer's contribution,177.17,266.85,,-,-
+,"Return on plan assets, excluding amount recognised in net interest expense",(0.49),19.19,,-,-
+,Benefit paid,(68.68),(37.66),,-,-
+,Employee's transfer,(0.08),(11.31),,-,-
+,Closing balance of fair value of plan assets,"1,223.01","1,038.31",,-,-
+iii),Amount recognised in the balance sheet,,,,,
+,Present value of obligation at the end of the year,"1,010.96","1,201.32",,192.83,202.44
+,Fair value of plan assets at the end of the year,"1,223.01","1,038.31",,-,-
+,Net assets / (liabilities) recognised in the balance sheet,212.05,(163.01),(192.83),(202.44),
+iv),Expense recognised in statement of profit and loss,,,,,
+,Current service cost,185.01,183.08,,67.39,56.75
+,Interest cost,88.83,78.02,,14.97,13.23
+,Return on plan asset,..........(76.78),(57.94),,-,-
+,Re-measurement (gain) / loss,,-,,(63.65),(11.97)
+,Expenses recognised in statement of profit and loss,197.06,203.16,,18.71,58.01

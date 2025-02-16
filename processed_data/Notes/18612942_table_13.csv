@@ -1,0 +1,23 @@
+0,1,2,3,4,5
+(B),Public Shareholding,,,,
+(1),Institutions,,,,
+a.,Mutual Funds/UTI,0,0,0,0
+b.,Financial Institutions/Banks,0,0,0,0
+c.,Central Government/StateGovernment(s),258300,1.37,0,0
+d.,Venture Capital Funds,0,0,0,0
+e.,Insurance Companies,0,0,0,0
+f.,Foreign Institutional Investors,0,0,0,0
+g.,Foreign Venture Capital Investors,0,0,0,0
+,Others :-,,,,
+,Sub Total (B)(1),258300,1.37,0,0
+(2),Non-Institutions,,,,
+a.,Bodies Corporate,1020645,5.40,0,0
+b.,Individuals,,,,
+,i)Individual shareholders holding nominal share capital upto Rs.1 lakh,5353745,28.32,0,0
+,ii)Individual shareholders holding nominal share capital in excess ofÂ Rs.1 lakh,4928383,26.07,0,0
+c.,Any Others : -,,,,
+,i)Non Resident Individuals,411000,2.17,0,0
+,ii)Clearing Members,612338,3.24,0,0
+,Sub Total (B)(2),12326111,65.19,0,0
+,Total Public Shareholding (B)=(B)(1)+(B)(2),12584411,66.56,0,0
+,Total (A)+(B),18906675,100.00,0,0
